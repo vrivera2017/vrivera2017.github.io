@@ -234,7 +234,7 @@ header nav a, footer .content-wrap .copyright, footer .content-wrap a, .about-lo
 
 header {
   height: 200px;
-  max-width: 960px;
+  max-width: 95%;
   background: url(../img/puzzlepiece.jpg) center center;
   background-size: cover;
   margin: 0 auto;
@@ -253,16 +253,21 @@ header {
   header h1 {
     float: left;
     margin: 20px 0px 0px 20px;
-    font-size: 32px;
+    font-size: 38px;
     font-weight: 700;
-    color: rgba(0, 0, 0, 0.7);
-    text-transform: uppercase; }
+    color: rgba(0, 0, 0, 0.7); }
+    header h1 span {
+      background-color: #ffffffa0;
+      border-radius: 1em;
+      padding-left: 10px;
+      padding-right: 10px;
+      text-transform: uppercase; }
     header h1:hover {
       color: black; }
 
 footer {
   height: 100px;
-  max-width: 960px;
+  max-width: 95%;
   background: url(../img/puzzlepiece.jpg) center center;
   background-size: cover;
   margin: 0 auto;
@@ -270,19 +275,26 @@ footer {
   footer .content-wrap {
     margin: 30px;
     float: right; }
+    footer .content-wrap nav {
+      background-color: #ffffffa0;
+      border-radius: 1em;
+      margin-left: 10px;
+      margin-right: 10px; }
     footer .content-wrap .copyright {
-      margin: 0;
+      margin: 10px;
+      margin-bottom: -30px;
       float: right;
       font-size: 10px; }
     footer .content-wrap a {
       display: inline-block;
-      margin-left: 20px; }
+      margin-left: 10px;
+      margin-right: 10px; }
       footer .content-wrap a:hover {
         color: black; }
 
 section {
   max-width: 960px;
-  margin: 0 auto;
+  margin: 10px;
   float: none;
   padding: 20px 20px; }
 
@@ -315,8 +327,8 @@ section {
   justify-content: space-around;
   -ms-flex-pack: center; }
   .about-lockup .face {
-    height: 220px;
-    width: 200px;
+    height: 320px;
+    width: 300px;
     background: url(/assets/img/aboutme_photo.jpg);
     background-size: cover;
     order: 1; }
@@ -324,7 +336,8 @@ section {
     height: auto;
     width: 600px;
     order: 2;
-    text-align: left; }
+    text-align: left;
+    padding-left: 10px; }
     .about-lockup .about-txt h3 {
       margin-left: -20px;
       padding-top: 10;
@@ -357,9 +370,9 @@ section {
     margin: 0 auto;
     font-size: 16px;
     font-weight: 100; } }
-section {
+.publications_section {
   max-width: 960px;
-  margin: 0 auto;
+  margin: 10px;
   float: none;
   padding: 20px 20px; }
 
@@ -407,7 +420,7 @@ h3 {
     padding: 10px 0px; } }
 .contact-section {
   max-width: 960px;
-  margin: 0 auto;
+  margin: 10px;
   float: none;
   padding: 20px 20px;
   display: -webkit-box;
