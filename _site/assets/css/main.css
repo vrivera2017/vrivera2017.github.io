@@ -235,16 +235,19 @@ header nav a, footer .content-wrap .copyright, footer .content-wrap a, .about-lo
 header {
   height: 200px;
   max-width: 960px;
-  background: url(../img/image-bg.jpg) center center;
+  background: url(../img/puzzlepiece.jpg) center center;
   background-size: cover;
   margin: 0 auto;
   float: none; }
   header nav {
+    background-color: #ffffffa0;
+    border-radius: 1em;
     float: right;
     margin: 30px 20px 0px 0px; }
     header nav a {
       display: inline-block;
-      margin-left: 20px; }
+      margin-left: 10px;
+      margin-right: 10px; }
       header nav a:hover {
         color: black; }
   header h1 {
@@ -260,7 +263,7 @@ header {
 footer {
   height: 100px;
   max-width: 960px;
-  background: url(../img/image-bg.jpg) center center;
+  background: url(../img/puzzlepiece.jpg) center center;
   background-size: cover;
   margin: 0 auto;
   float: none; }
@@ -314,7 +317,7 @@ section {
   .about-lockup .face {
     height: 220px;
     width: 200px;
-    background: url(/assets/img/bio-photo.png);
+    background: url(/assets/img/aboutme_photo.jpg);
     background-size: cover;
     order: 1; }
   .about-lockup .about-txt {
