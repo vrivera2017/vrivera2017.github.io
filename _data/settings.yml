@@ -6,9 +6,9 @@ blurb: <p>My name is Veronica Rivera and I am a second year PhD student in Compu
 #----------------------
 # Courses section
 courses:
-  - {title: Intro to Chem, semester: Fall 1885, school: King's College London, description: Teaching students chemistry isn't only for witches., link: courses/temp_course }
-  - {title: Advanced Psychiatric Medicine, semester: Spring 1885, school: King's College London, description: At the time, mainly lobotomy., link: courses/temp_course }
-  - {title: Diseases of the Mind, semester: Fall 1884, school: King's College London, description: Survey course. Mainly taught by example., link: courses/temp_course }
+  - {title: Introduction to Programming Accelerated (CMPS 12A), semester: Fall 2018, school: UCSC, description: Teaching Assistant. Held weekly office hours and led lab section. (Course instructor--Professor Narges Norouzi)}
+  - {title: Introduction to Programming in Java (CMPS 5J), semester: Spring 2018, school: UCSC, description: Teaching Assistant. Held weekly office hours and led lab section. (Course instructor--Professor Dustin Adams)}
+  - {title: Introduction to Programming in Java (CMPS 5J), semester: Winter 2018, school: UCSC, description: Teaching Assistant. Held weekly office hours and led lab section. (Course instructor--Professor Dustin Adams)}
 #----------------------
 # Contact
 contact-info: <p>Veronica Rivera<br>veariver@ucsc.edu</p>

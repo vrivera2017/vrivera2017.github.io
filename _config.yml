@@ -8,7 +8,7 @@ permalink: pretty
 favicon: "/assets/img/temp_chem.jpg"
 
 port: 3000
-url: http://localhost:3000
+url: https://vrivera2017.github.io
 
 sass:
   sass_dir: assets/css
