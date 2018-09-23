@@ -8,3 +8,64 @@ h3
   padding: 0 20px
   @extend %small-bold
   text-align: left
+
+.publications-list
+  max-width: 900px
+  margin: 0 auto
+  float: none
+  padding: 0px 20px
+  +clearfix
+
+.conference
+  display: block
+  width: 100%
+  height: auto
+  float: left
+  padding: 10px
+
+a
+  color: rgba(0,0,0,0.7)
+  font:
+    size: 14px
+    weight: 700
+    text-transform: uppercase
+  //&:hover
+h3
+  padding: 0 20px
+  @extend %small-bold
+  text-align: left
+
+@media screen and (max-width: 650px)
+  .conference
+    display: block
+    width: 100%
+    height: auto
+    float: left
+    padding: 10px 0px
+
+.journal
+  display: block
+  width: 100%
+  height: auto
+  float: left
+  padding: 10px
+
+a
+  color: rgba(0,0,0,0.7)
+  font:
+    size: 14px
+    weight: 700
+    text-transform: uppercase
+  //&:hover
+h3
+  padding: 0 20px
+  @extend %small-bold
+  text-align: left
+
+@media screen and (max-width: 650px)
+  .journal
+    display: block
+    width: 100%
+    height: auto
+    float: left
+    padding: 10px 0px
