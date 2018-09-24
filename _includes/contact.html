@@ -8,9 +8,17 @@
   <div>
     <div class="contact-links">
       {% for link in site.data.settings.contact-links %}
-      <a href={{ link.contact-link }} class="contact-link">
-        <div class="contact-icon">{% include {{ link.icon }} %}</div>{{ link.contact-text }}
-      </a>
+        {% if link.contact-text == "Twitter" %}
+        <div class="twitter">
+          <a href="https://twitter.com/veronrivera">
+          <img title="Twitter" alt="Twitter" src="https://socialmediawidgets.files.wordpress.com/2014/03/01_twitter.png" width="45" height="45" />
+          </a></div>
+          {% else if link.contact-text == "Linkedin" %}
+          <div class ="linkedin">
+            <a href="https://www.linkedin.com/in/veronicarivera1/">
+            <img title="LinkedIn" alt="LinkedIn" src="https://socialmediawidgets.files.wordpress.com/2014/03/07_linkedin.png" width="45" height="45" />
+            </a></div>
+        {% endif %}
       {% endfor %}
     </div>
   </div>

@@ -284,7 +284,8 @@ footer {
       margin: 10px;
       margin-bottom: -30px;
       float: right;
-      font-size: 10px; }
+      font-size: 10px;
+      color: white; }
     footer .content-wrap a {
       display: inline-block;
       margin-left: 10px;
