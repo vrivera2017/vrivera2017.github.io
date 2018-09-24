@@ -300,7 +300,7 @@ section {
   padding: 20px 20px; }
 
 .about-lockup {
-  max-width: 860px;
+  max-width: 900px;
   display: -webkit-box;
   display: -moz-box;
   display: box;
@@ -328,9 +328,9 @@ section {
   justify-content: space-around;
   -ms-flex-pack: center; }
   .about-lockup .face {
-    height: 320px;
-    width: 300px;
-    background: url(/assets/img/aboutme_photo.jpg);
+    height: 400px;
+    width: 400px;
+    background: url(/assets/img/aboutme.jpg);
     background-size: cover;
     order: 1; }
   .about-lockup .about-txt {
@@ -338,10 +338,10 @@ section {
     width: 600px;
     order: 2;
     text-align: left;
-    padding-left: 10px; }
+    padding-left: 50px; }
     .about-lockup .about-txt h3 {
       margin-left: -20px;
-      padding-top: 10;
+      padding-top: 10px;
       text-align: left; }
 
 @media screen and (max-width: 650px) {
