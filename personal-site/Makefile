@@ -1,2 +1,2 @@
 deploy:
-	hugo -b 'https://cs.stanford.edu/~aozdemir' -d /afs/cs.stanford.edu/u/aozdemir/www
+	hugo -b https://vrivera2017.github.io/ -d ..
