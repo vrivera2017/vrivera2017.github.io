@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+{{partial "head.html" . }}
+<body>
+  <div class = "page-container">
+    {{ partial "sidebar.html" . }}
+    <div class="content">
+      {{ if .Params.show_title }}
+        <h1 class="title"> {{ .Title }} </h1>
+      {{ end }}
+      {{ .Content }}
+    </div>
+  </div>
+</body>
+</html>

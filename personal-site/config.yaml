@@ -1,0 +1,8 @@
+baseURL: ""
+canonifyurls: true
+languageCode: "en-us"
+title: "Veronica Rivera"
+theme: "main"
+
+pygmentsCodeFences: true
+pygmentsStyle: rainbow_dash

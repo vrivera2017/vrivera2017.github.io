@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+{{partial "head.html"}}
+<body>
+  <div class = "page-container">
+    {{ partial "sidebar.html" . }}
+    <div class="content">
+        <header>
+            <h1>{{.Title}}</h1>
+        </header>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{.Content}}
+    <!-- Ranges through content/posts/*.md -->
+    <div class="post-list">
+    {{ range .Pages.ByDate.Reverse }}
+          <div class="entry">
+        <a href="{{.Permalink}}">
+            <h2>{{.Title}}</h2>
+        </a>
+            <p>{{ .Params.Excerpt }}</p>
+          </div>
+        </li>
+    {{ end }}
+    </div>
+    </div>
+  </div>
+</body>
+</html>

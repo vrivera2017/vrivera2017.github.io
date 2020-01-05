@@ -1,0 +1,34 @@
+
+<div class = "teaching">
+  <div class = "left">
+    <div class = "role">
+      {{ .Get "role" }}
+    </div>
+    <div class = "year">
+      {{ .Get "year" }}
+    </div>
+  </div>
+  <div class = "right">
+    <div class = "class">
+      {{ .Get "class" }}
+    </div>
+    <div class = "detail">
+      {{ .Inner }}
+      {{ with .Get "site" }}
+        <span class = "link" >
+          [<a href="{{.}}">site</a>]
+        </span>
+      {{ end }}
+      {{ with .Get "more" }}
+        <span class = "link" >
+          [<a href="{{.}}">more</a>]
+        </span>
+      {{ end }}
+      {{ with .Get "projects" }}
+        <span class = "link" >
+          [<a href="{{.}}">projects</a>]
+        </span>
+      {{ end }}
+    </div>
+  </div>
+</div>

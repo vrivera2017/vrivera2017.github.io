@@ -1,0 +1,14 @@
+<div class = "software">
+  <div class = "left">
+    {{ .Get "name" }}
+  </div>
+  <div class = "right">
+    {{ .Inner }}
+    {{ with .Get "site" }}
+      [<a href="{{.}}">site</a>]
+    {{ end }}
+    {{ with .Get "code" }}
+      [<a href="{{.}}">code</a>]
+    {{ end }}
+  </div>
+</div>

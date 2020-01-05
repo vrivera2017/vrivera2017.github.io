@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+{{partial "head.html" . }}
+<body>
+  <!--<div class = "navbar"> Veronica Rivera </div>-->
+  <div class = "page-container">
+    {{ partial "sidebar.html" . }}
+    <div class="content">
+      <figure style="padding: 1rem; margin: 0 0; float:right">
+        <img style="max-width: 100%; height: auto;" src="//localhost:1313/images/profile-3.jpg" width="250px" height="250px"> 
+      </figure>
+      {{ .Content }}
+    </div>
+  </div>
+</body>
+</html>

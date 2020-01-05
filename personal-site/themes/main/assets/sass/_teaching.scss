@@ -1,0 +1,40 @@
+@import 'vars';
+
+div.teaching {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0;
+
+  div.left {
+    width: 120px;
+    flex-shrink: 0;
+    margin-right: 20px;
+    padding-top: 3px;
+    text-align: right;
+    font-weight: bold;
+
+    div.role {
+      text-align: right;
+      font-weight: bold;
+    }
+
+    div.year {
+      text-align: right;
+      font-weight: normal;
+    }
+  }
+  div.right {
+    div.class {
+      color: $header-color;
+      font-family: $sans;
+      font-size: 1.2em;
+    }
+    div.detail {
+      color: $detail-color;
+      span.link {
+        font-style: normal;
+        font-size: 0.8em;
+      }
+    }
+  }
+}

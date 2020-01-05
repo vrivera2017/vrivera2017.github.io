@@ -1,0 +1,13 @@
+{{ $image := .Get 0 }}
+{{ $width := .Get 1 }}
+{{ $height := .Get 2 }}
+<figure style="padding: 0.25rem; margin: 0 0; float:right">
+  <img style="max-width: 100%; height: auto;" src="{{ $image | relURL }}" width="{{ $width }}" height="{{ $height }}">
+  {{ with .Inner }}
+    <figcaption>
+    <small>
+      {{ . }}
+    </small>
+    </figcaption>
+  {{ end }}
+</figure>

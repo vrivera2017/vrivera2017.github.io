@@ -1,0 +1,22 @@
+div.internship {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0;
+
+  div.left {
+    width: 150px;
+    flex-shrink: 0;
+    margin-right: 20px;
+    text-align: right;
+    font-weight: bold;
+
+    div.year {
+      text-align: right;
+      font-weight: normal;
+    }
+  }
+
+  div.right a {
+    font-size: 0.8em;
+  }
+}

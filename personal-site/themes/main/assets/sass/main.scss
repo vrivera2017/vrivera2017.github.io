@@ -1,0 +1,85 @@
+@import 'teaching';
+@import 'internship';
+@import 'software';
+@import 'sidebar';
+@import 'vars';
+@import 'table';
+@import 'email';
+@import 'post_list';
+
+$text-color: #494e52;
+$link-color: #077cd2;
+//$header-color: rgb(56, 23, 241);
+$header-color: #743CDE; 
+$detail-color: #868f97;
+//$nav-color: #00ba0f;
+$nav-color: #5B27BE; 
+$serif: Lora, Georgia, "Times New Roman", Times, serif;
+$sans: Lato, Arial, sans-serif;
+$monospace: "Roboto Mono", "DejaVu Sans Mono", monospace;
+html {
+  overflow-y: scroll;
+}
+
+body {
+  font-family: $sans;  
+  text-rendering: optimizeLegibility;
+  font-size: 16px;
+  color: $text-color;
+}
+
+a {
+  text-decoration: none;
+  color: $link-color;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+h2,
+h3 {
+  font-family: $sans;
+  font-weight: 400;
+  color: $header-color;
+}
+
+h1.title {
+  border-bottom: 0.25pt dashed gray;
+}
+
+.navbar {
+  height: 50px; 
+  display: flex; 
+  flex-direction: column;
+}
+
+.page-container {
+  margin: 30px auto auto 20px;
+  padding-right: 100px;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.monospace {
+  font-family: $sans;
+}
+
+.name {
+  font-size: 2em;
+  //justify-content: flex-start;
+  //border-bottom: 1pt solid black;
+}
+
+.content {
+  img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.justify-center {
+  display: flex;
+  justify-content: center;
+}
