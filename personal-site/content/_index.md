@@ -14,7 +14,7 @@ My research focuses on the future of work and education, specifically on **how t
 
 Prior to beginning my PhD I received a B.S degree in Joint Computer Science and Mathematics from [Harvey Mudd College][hmc] where I was supported by a 4 year [President's Scholarship][psp]. During my time at Harvey Mudd College I conducted research in Knot Theory with [Sam Nelson][nelson] and in Computer Vision/Robotics with [Zachary Dodds][dodds]. My undergraduate research experiences contributed greatly to my passion for scholarship and learning. 
 
-Download my CV here. 
+[View my CV][CV]
 
 ### News 
 **11/2019:** I attended the [Future of Work(places)][futureworkplaces] workshop at CSCW 2019. Thank you to all the organizers for putting together such an interesting and engaging workshop! View a summary of the workshop discussions and outcomes written by one of the organizers [here][cscw-summary]. 
@@ -27,6 +27,10 @@ Download my CV here.
 
 **5/2019:** I attended the JobKit Developer's Conference at the White House with David Lee to participate in discussions on education and jobs with various government leaders. 
 
+**4/2019:** I attended the CRA Grad Cohort for Women in Computing in Chicago, Illinois on a full travel scholarship. 
+
+**3/2019:** I attended the CRA Grad Cohort for Underrepresented Minorities and People With Disabilities in Waikoloa Village, Hawaii on a full travel scholarship. 
+
 [hmc]: https://www.hmc.edu/
 [compmedia]: https://grad.soe.ucsc.edu/computational-media
 [t4good]: https://tech4good.soe.ucsc.edu/
@@ -37,5 +41,6 @@ Download my CV here.
 [cscw19]: /docs/cscw19-workshop.pdf
 [futureworkplaces]: https://cscw2019-futureofworkplaces.com
 [cscw-summary]: https://medium.com/acm-cscw/exploring-the-future-of-work-places-cscw-2019-workshop-summary-2f587f093df1 
+[CV]: /docs/Veronica_Rivera_CV.pdf
 
 
