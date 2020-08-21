@@ -43,7 +43,7 @@ Prior to beginning my PhD I received a B.S degree in Joint Computer Science and 
 [cscw19]: /docs/cscw19-workshop.pdf
 [futureworkplaces]: https://cscw2019-futureofworkplaces.com
 [cscw-summary]: https://medium.com/acm-cscw/exploring-the-future-of-work-places-cscw-2019-workshop-summary-2f587f093df1 
-[CV]: /docs/VeronicaRivera_CV.pdf
+[CV]: /docs/Veronica-Rivera-CV.pdf
 [gslcp]: /docs/GSLCP_2020_syllabus.pdf 
 
 
