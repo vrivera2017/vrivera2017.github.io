@@ -6,11 +6,14 @@
 @import 'table';
 @import 'email';
 @import 'post_list';
+@import 'news'; 
 
 $text-color: #494e52;
-$link-color: #077cd2;
+//$link-color: #077cd2;
+$link-color: #2E9CCA; 
 //$header-color: rgb(56, 23, 241);
-$header-color: #743CDE; 
+//$header-color: #743CDE; 
+$header-color: #d17480; 
 $detail-color: #868f97;
 //$nav-color: #00ba0f;
 $nav-color: #5B27BE; 

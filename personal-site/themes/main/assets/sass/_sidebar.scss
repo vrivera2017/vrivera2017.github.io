@@ -3,9 +3,10 @@
   display: flex;
   flex-direction: column;
   align-items: left;
-  border-right: 0.15em solid #DED3F3;
+  border-right: 0.15em solid #b9d7e4;
   //min-width: 33.333%;
   min-width: 22%;
+  max-width: 22%;
   //height: 90%;
   margin-right: 30px;
   padding-left: 20px;
@@ -43,7 +44,8 @@
       //border-right: 4px solid white;
 
       &:hover {
-        color: #743CDE;
+        //color: #743CDE;
+        color: #d17480; 
       }
 
       a {
@@ -56,14 +58,15 @@
     }
 
     .active-nav-item {
-      color: #743CDE;
+      //color: #743CDE;
+      color: #d17480; 
     }
   }
 
   .contact-info {
     margin-top: 2em; 
-    padding-top: 10px;
-    border-top: 0.15em solid #DED3F3;
+    padding-top: 2em;
+    border-top: 0.15em solid #b9d7e4;
     font-size: 14px;
 
     .contact-title {
@@ -77,9 +80,11 @@
 
     .fa {
       font-size: 18px; 
-      color: #077cd2; 
+      //color: #077cd2; 
+      color: #2E9CCA; 
       margin-right: 0.5em;
       margin-top: 0.25em;
     }
   }
+  
 }

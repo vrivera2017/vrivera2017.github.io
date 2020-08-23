@@ -17,10 +17,9 @@ Nelson, Sam., **Rivera, Veronica**. (2014). [Quantum Enhancements of Involutory 
 ### Conference Publications
 Tenorio, D., **Rivera, V**., Medina, J., Leondar, A., Gaumer, M., Dodds, Z. (2015). [Visual Autonomy via 2D Matching in Rendered 3D Models][isvc15]. In *Proceedings of the 11th International Symposium on Visual Computing*. ISVC 2015.
 
-### Workshop Papers 
+### Workshop and Consortia Papers 
 **Rivera, Veronica**., Lee, David. (2019). [It Takes a Village to Change Jobs: Towards Workplace Relationships that Support Reskilling in Crowdwork][cscw19]. In *The Future of Work(places): Creating a Sense of Place for On-Demand Work*. Workshop conducted at the ACM Conference on Computer-Supported Cooperative Work and Social Computing. CSCW 2019. 
 
-### Doctoral Consortia 
 **Rivera, Veronica**. (2018). [A New Approach to Testing Children with Autism Spectrum Disorders Using Affect][its18]. In *Proceedings of the 14th International Conference on Intelligent Tutoring Systems*. ITS 2018. 
 
 [biquandle]: /docs/biquandle-brackets.pdf
