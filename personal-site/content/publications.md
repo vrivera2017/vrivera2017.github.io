@@ -10,17 +10,25 @@ menu:
 ## Publications
 
 ### Journal Publications
-Nelson, Sam., Orrison, Michael., **Rivera, Veronica**. (2017). [Quantum Enhancements and Biquandle Brackets][biquandle]. *The Journal of Knot Theory and its Ramifications*, 26(5). 
+**Veronica A. Rivera**, David T. Lee. *I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions*. (2021). In the Proceedings of the ACM - Human Computer Interaction (PACM-HCI), to be presented at CSCW 2021.  
+<!--\[[PDF of pre-print][AMT]\]--> 
 
-Nelson, Sam., **Rivera, Veronica**. (2014). [Quantum Enhancements of Involutory Birack Counting Invariants][invariants]. *The Journal of Knot Theory and its Ramifications*, 23(7). 
+Sam Nelson, Michael Orrison, **Veronica Rivera**. *Quantum Enhancements and Biquandle Brackets*. (2017) In The Journal of Knot Theory and its Ramifications, 26(5).  
+\[[PDF][biquandle]\]
+
+Sam, Nelson, **Veronica Rivera**. *Quantum Enhancements of Involutory Birack Counting Invariants*. (2014) In The Journal of Knot Theory and its Ramifications, 23(7).  
+\[[PDF][invariants]\]
 
 ### Conference Publications
-Tenorio, D., **Rivera, V**., Medina, J., Leondar, A., Gaumer, M., Dodds, Z. (2015). [Visual Autonomy via 2D Matching in Rendered 3D Models][isvc15]. In *Proceedings of the 11th International Symposium on Visual Computing*. ISVC 2015.
+D. Tenorio, **V. Rivera**, J. Medina, A. Leondar, M. Gaumer, Z. Dodds. *Visual Autonomy via 2D Matching in Rendered 3D Models*. (2015) In Proceedings of the 11th International Symposium on Visual Computing. ISVC 2015.  
+\[[PDF][isvc15]\]
 
 ### Workshop and Consortia Papers 
-**Rivera, Veronica**., Lee, David. (2019). [It Takes a Village to Change Jobs: Towards Workplace Relationships that Support Reskilling in Crowdwork][cscw19]. In *The Future of Work(places): Creating a Sense of Place for On-Demand Work*. Workshop conducted at the ACM Conference on Computer-Supported Cooperative Work and Social Computing. CSCW 2019. 
+**Veronica A. Rivera**, David T. Lee. *It Takes a Village to Change Jobs: Towards Workplace Relationships that Support Reskilling in Crowdwork*. (2019) In *he Future of Work(places): Creating a Sense of Place for On-Demand Work. Workshop conducted at the ACM Conference on Computer-Supported Cooperative Work and Social Computing. CSCW 2019.  
+\[[PDF][cscw19]\]
 
-**Rivera, Veronica**. (2018). [A New Approach to Testing Children with Autism Spectrum Disorders Using Affect][its18]. In *Proceedings of the 14th International Conference on Intelligent Tutoring Systems*. ITS 2018. 
+**Veronica Rivera**. *A New Approach to Testing Children with Autism Spectrum Disorders Using Affect*. (2018) In Proceedings of the 14th International Conference on Intelligent Tutoring Systems. ITS 2018.  
+\[[PDF][its18]\]
 
 [biquandle]: /docs/biquandle-brackets.pdf
 [invariants]: /docs/counting-invariants.pdf

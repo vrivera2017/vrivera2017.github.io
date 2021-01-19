@@ -11,8 +11,9 @@ menu:
 I have been a Graduate Teaching Assistant over three quarters for the following two courses: 
 * UC Santa Cruz CMPS 12A Introduction to Programming, Accelerated (Fall 2018)
 * UC Santa Cruz CMPS 5J Introduction to Programming in Java (Winter 2018, Spring 2018)
+* UC Santa Cruz CMPM 178 Human-Centered Design Research (Winter 2021)
 
-For both of these courses I was involved in leading multiple lab sections each week and holding weekly office hours. I helped students with lab and homework assignments, and helped them prepare for quizzes and exams. I was also responsible for grading assignments and exams, and overseeing undergraduate course tutors. 
+For these courses I was involved in leading multiple lab sections each week and holding weekly office hours. I helped students with lab and homework assignments, and helped them prepare for quizzes and exams. I was also responsible for grading assignments and exams, and overseeing undergraduate course tutors. For CMPM 178 specifically, I provide written feedback for students on in-class presentations and help support them in carrying out a quarter-long human-centered design project. 
 
 ### Undergraduate Research Mentoring 
 As part of the Tech4Good Lab I am involved in leading multiple teams of undergraduate research students each quarter. These teams work on tasks that contribute to the research projects I am working on. 

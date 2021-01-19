@@ -1,4 +1,8 @@
 # News 
+
+## Dec. 2020
+My paper, "I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions", was accepted for publication in PACM HCI and will be presented at CSCW 2021.  
+
 ## Jan. 2020 
 I was accepted to the [Graduate Student Leadership Certificate Program][gslcp] run by the UCSC Division of Graduate Studies 
 
