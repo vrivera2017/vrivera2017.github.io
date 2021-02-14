@@ -1,7 +1,7 @@
 # News 
 
 ## Dec. 2020
-My paper, "I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions", was accepted for publication in PACM HCI and will be presented at CSCW 2021.  
+My paper, [I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions][cscw21], was accepted for publication in PACM HCI and will be presented at CSCW 2021.  
 
 ## Jan. 2020 
 I was accepted to the [Graduate Student Leadership Certificate Program][gslcp] run by the UCSC Division of Graduate Studies 
@@ -27,6 +27,7 @@ I attended the CRA Grad Cohort for Women in Computing in Chicago, Illinois on a 
 ## Mar. 2019
 I attended the CRA Grad Cohort for Underrepresented Minorities and People With Disabilities in Waikoloa Village, Hawaii on a full travel scholarship. 
 
+[cscw21]: /docs/CSCW_2021_Camera_Ready.pdf
 [gslcp]: /docs/GSLCP_2020_syllabus.pdf
 [futureworkplaces]: https://medium.com/acm-cscw/exploring-the-future-of-work-places-cscw-2019-workshop-summary-2f587f093df1
 [cscw19]: /docs/cscw19-workshop.pdf

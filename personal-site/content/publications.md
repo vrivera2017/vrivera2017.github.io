@@ -11,7 +11,7 @@ menu:
 
 ### Journal Publications
 **Veronica A. Rivera**, David T. Lee. *I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions*. (2021). In the Proceedings of the ACM - Human Computer Interaction (PACM-HCI), to be presented at CSCW 2021.  
-<!--\[[PDF of pre-print][AMT]\]--> 
+\[[PDF of pre-print][cscw21]\]
 
 Sam Nelson, Michael Orrison, **Veronica Rivera**. *Quantum Enhancements and Biquandle Brackets*. (2017) In The Journal of Knot Theory and its Ramifications, 26(5).  
 \[[PDF][biquandle]\]
@@ -30,6 +30,7 @@ D. Tenorio, **V. Rivera**, J. Medina, A. Leondar, M. Gaumer, Z. Dodds. *Visual A
 **Veronica Rivera**. *A New Approach to Testing Children with Autism Spectrum Disorders Using Affect*. (2018) In Proceedings of the 14th International Conference on Intelligent Tutoring Systems. ITS 2018.  
 \[[PDF][its18]\]
 
+[cscw21]: /docs/CSCW_2021_Camera_Ready.pdf
 [biquandle]: /docs/biquandle-brackets.pdf
 [invariants]: /docs/counting-invariants.pdf
 [cscw19]: /docs/cscw19-workshop.pdf
