@@ -7,7 +7,7 @@ menu:
 ---
 
 
-## Publications
+# Publications
 
 ### Journal Publications
 **Veronica A. Rivera**, David T. Lee. *I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions*. (2021). In the Proceedings of the ACM - Human Computer Interaction (PACM-HCI), to be presented at CSCW 2021.  
