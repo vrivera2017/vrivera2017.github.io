@@ -1,4 +1,9 @@
-<div class= "project-icons">
-  <img style="max-width: 100%; height: auto;" src="images/experiential-learning.jpg" width="400px">
-  <img style="max-width: 100%; height: auto;" src="images/experiential-learning.jpg" width="400px">  
+{{ $image := .Get "image" }}
+<div class = "project-icons">
+  <div class = "left">
+    <a href = "research"><img style="max-width: 100%; height: auto;" src="{{ $image | relURL }}" width="350px"></a>
+  </div>
+  <div class = "right">
+    {{ .Inner | markdownify }}
+  </div>
 </div>

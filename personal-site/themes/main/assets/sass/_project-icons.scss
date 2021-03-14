@@ -1,9 +1,23 @@
-.project-icons {
-  img {
-    border: 1.5px solid #607a3f;
-    margin-bottom: 1.5em;
-    align-self: flex-start;
-  }
+div.project-icons {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  margin: 20px 0;
+
+  div.left {
+    width: 350px;
+    flex-shrink: 0;
+    margin-right: 20px;
+    text-align: right;
+    font-weight: bold;
+
+    img {
+      border: 1.5px solid #80929c;
+      margin-bottom: 1.5em;
+      align-self: flex-start;
+    }
+  }
+
+  div.right a {
+    font-size: 0.8em;
+  }
 }

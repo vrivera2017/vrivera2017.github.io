@@ -16,9 +16,20 @@ Prior to beginning my PhD I received a B.S degree in Joint Computer Science and 
 
 [View my most recent CV][CV]
 
-<!--## Selected Research Projects-->
-<!--{{<project-icons>}}-->
- 
+## Research Projects
+{{< project-icons image = "/images/amt-icon.jpg">}}
+#### Career Development on Amazon Mechanical Turk 
+What are the career goals of crowdworkers on Amazon Mechanical Turk? What challenges do they face in pursuing their career goals? How do environmental factors within crowdwork platforms support or inhibit their pursuit of career goals? 
+{{< /project-icons >}}
+
+{{< project-icons image = "/images/causeway-thumbnail.jpg">}}
+#### Designing Systems for Apprenticeship Learning at Scale 
+How might we design online learning environments that support apprenticeship learning at scale? How should we design instructional support and materials within these platforms to enable learning without the need for individual mentors?
+{{< /project-icons >}}
+
+
+
+
 
 [hmc]: https://www.hmc.edu/
 [compmedia]: https://grad.soe.ucsc.edu/computational-media
