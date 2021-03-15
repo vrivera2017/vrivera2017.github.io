@@ -5,7 +5,7 @@ menu:
     weight: 4
 ---
 
-## Teaching and Research Mentoring 
+# Teaching and Research Mentoring 
 
 ### Teaching 
 I have been a Graduate Teaching Assistant over three quarters for the following two courses: 
