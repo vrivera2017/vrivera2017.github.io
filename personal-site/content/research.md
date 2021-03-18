@@ -1,9 +1,4 @@
----
-title: "Research"
-menu:
-  main:
-    weight: 3
----
+
 
 # Research Project Summaries
 

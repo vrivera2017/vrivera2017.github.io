@@ -14,9 +14,9 @@ Application in use. Displaying admissions rate vs. in-state tuition for institut
 
 **Motivation:** Recently I found that the U.S Department of Education maintains a dataset called the College Scorecard Dataset, which contains aggregate information for various institutions of higher education in the U.S such as costs and admissions statistics. This information could be incredibly useful for students and families, yet it is difficult to parse through and the amount of information is overwhelming. Therefore, I wanted to create an easy way for someone interested in exploring the dataset to do so without having to sift through a large CSV file. 
 
-**Description:** I created an interactive web application using Shiny that allows users to create a scatter plot by selecting x and y values among four different variables related to admissions rate and cost: admissions rate, in-state tuition, out of state tuition, percent of students with federal loans, and percent of students with pell grant. The application also allows users to view data points only for certain states. A more detailed description of the process I followed to create the application can be found here. 
+**Description:** I created an interactive web application using Shiny that allows users to create a scatter plot by selecting x and y values among four different variables related to admissions rate and cost: admissions rate, in-state tuition, out of state tuition, percent of students with federal loans, and percent of students with pell grant. The application also allows users to view data points only for certain states. A more detailed description of the process I followed to create the application can be found [here][tech-statement]. 
 
-**Results:** The application is an early stage working prototype. In the future I would like to work with college-bound students and their families to add features that would best serve their needs. View the code at [this GitHub repository][college-git] or play with the application here.
+**Results:** The application is an early stage working prototype. In the future I would like to work with college-bound students and their families to add features that would best serve their needs. View the code at [this GitHub repository][college-git] or play with the application [here][app-url].
 
 **Technologies used:** R, Shiny 
 
@@ -34,7 +34,7 @@ The Classroom Causeway interface.
 
 **Motivation:** MOOCs have allowed for greater dissemination of educational content, especially in computer science education. However, the kind of learning enabled by MOOCs does not provide students with the tacit knowledge and skills needed to perform expert-level work and solve real-world problems. These skills are best developed through experiential and apprenticeship learning. Yet, these opportunities are difficult to scale since they require a significant time commitment from mentors who oversee students and guide them through the learning process. 
 
-**Description:** To study how we might design online learning environments that support experiential and apprenticeship learning at scale, I have led the user testing and design iterations of two interfaces for [Causeway][causeway], an online platform that enables students to learn web development by following a series of learning pathways as they work on real-world problems. Each of the interfaces provides learners with a series of guides they can use to learn web development concepts, which they immediately apply to build static web pages. The design of each interface and prescribed workflow models various ideas of apprenticeship learning theory from the education literature. A more detailed description of the two interfaces and my user testing process can be found here.   
+**Description:** To study how we might design online learning environments that support experiential and apprenticeship learning at scale, I have led the user testing and design iterations of two interfaces for [Causeway][causeway], an online platform that enables students to learn web development by following a series of learning pathways as they work on real-world problems. Each of the interfaces provides learners with a series of guides they can use to learn web development concepts, which they immediately apply to build static web pages. The design of each interface and prescribed workflow models various ideas of apprenticeship learning theory from the education literature. A more detailed description of the two interfaces and my user testing process can be found [here][media-statement].   
 
 **Results:** The two interfaces are currently being used in a study where we investigate how to design these kinds of interfaces to support apprenticeship learning at scale in a way that lessens the need for individual mentors.
 
@@ -63,3 +63,6 @@ ColorMe application detecting the happy emotion.
 [colorme]: https://github.com/vrivera2017/ColorMe
 [college-git]: https://github.com/vrivera2017/CollegeScoreCard
 [causeway]: https://causeway.soe.ucsc.edu/#/
+[app-url]: https://veronicarivera.shinyapps.io/collegescorecarddata/
+[media-statement]: /docs/media-statement.pdf
+[tech-statement]: /docs/technical-statement.pdf

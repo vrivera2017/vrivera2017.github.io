@@ -1,7 +1,8 @@
 {{ $image := .Get "image" }}
 <div class = "project-icons">
   <div class = "left">
-    <a href = "research"><img style="max-width: 100%; height: auto;" src="{{ $image | relURL }}" width="350px"></a>
+    <img style="max-width: 100%; height: auto;" src="{{ $image | relURL }}" width="350px">
+   <!-- <a href = "research"><img style="max-width: 100%; height: auto;" src="{{ $image | relURL }}" width="350px"></a>-->
   </div>
   <div class = "right">
     {{ .Inner | markdownify }}
