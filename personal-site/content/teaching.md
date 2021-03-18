@@ -13,7 +13,6 @@ I have been a Graduate Teaching Assistant at UC Santa Cruz for the following cou
 * UC Santa Cruz CMPM 178 Human-Centered Design Research (Winter 2021) 
 * UC Santa Cruz CMPS 12A Introduction to Programming, Accelerated (Fall 2018)
 * UC Santa Cruz CMPS 5J Introduction to Programming in Java (Winter 2018, Spring 2018)
-* UC Santa Cruz CMPM 178 Human-Centered Design Research (Winter 2021)
 
 For these courses I was involved in leading multiple lab sections each week and holding weekly office hours. I helped students with lab and homework assignments, and helped them prepare for quizzes and exams. I was also responsible for grading assignments and exams, and overseeing undergraduate course tutors. For CMPM 178 specifically, I provide written feedback for students on in-class presentations and help support them in carrying out a quarter-long human-centered design project. 
 
