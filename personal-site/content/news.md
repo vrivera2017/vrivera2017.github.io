@@ -1,4 +1,6 @@
 # News 
+## June 2020
+I was selected as one of the recipients of the ARCS fellowship for the 2021-2022 school year. 
 
 ## Dec. 2020
 My paper, [I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions][cscw21], was accepted for publication in PACM HCI and will be presented at CSCW 2021.  
