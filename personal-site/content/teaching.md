@@ -8,13 +8,16 @@ menu:
 # Teaching and Research Mentoring 
 
 ### Teaching 
-I have been a Graduate Teaching Assistant at UC Santa Cruz for the following courses:
-* UC Santa Cruz CSE 20 Beginning Programming in Python (Spring 2021)
-* UC Santa Cruz CMPM 178 Human-Centered Design Research (Winter 2021) 
-* UC Santa Cruz CMPS 12A Introduction to Programming, Accelerated (Fall 2018)
-* UC Santa Cruz CMPS 5J Introduction to Programming in Java (Winter 2018, Spring 2018)
+I designed a new course, HCI 220 Ethics and Activism in Tech and Design, for the Human-Computer Interaction MS program at the UCSC Silicon Valley Campus. I will be teaching the course in in the Spring 2022 Quarter as a Teaching Fellow. 
 
-For these courses I was involved in leading multiple lab sections each week and holding weekly office hours. I helped students with lab and homework assignments, and helped them prepare for quizzes and exams. I was also responsible for grading assignments and exams, and overseeing undergraduate course tutors. For CMPM 178 specifically, I provide written feedback for students on in-class presentations and help support them in carrying out a quarter-long human-centered design project. 
+I have been also been a Graduate Teaching Assistant for the following courses at UC Santa Cruz:
+* CMPM 35 Data Structures for Interactive Media (Fall 2021)
+* CSE 20 Beginning Programming in Python (Spring 2021)
+* CMPM 178 Human-Centered Design Research (Winter 2021, Winter 2022) 
+* CMPS 12A Introduction to Programming, Accelerated (Fall 2018)
+* CMPS 5J Introduction to Programming in Java (Winter 2018, Spring 2018)
+
+<!-- For these courses I was involved in leading multiple lab sections each week and holding weekly office hours. I helped students with lab and homework assignments, and helped them prepare for quizzes and exams. I was also responsible for grading assignments and exams, and overseeing undergraduate course tutors. For CMPM 178 specifically, I provide written feedback for students on in-class presentations and help support them in carrying out a quarter-long human-centered design project. -->
 
 ### Undergraduate Research Mentoring 
 As part of the Tech4Good Lab I am involved in leading multiple teams of undergraduate research students each quarter. I have had the pleasure of mentoring the following UC Santa Cruz students in various areas related to my research: 

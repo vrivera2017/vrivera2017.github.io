@@ -1,4 +1,10 @@
 # News 
+## Feb. 2022
+Our paper, "Brush it off": How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms, was accepted for publication at CHI 2022. 
+
+## Dec. 2021
+I passed my qualifying exam and am now a PhD Candidate. 
+
 ## June 2020
 I was selected as one of the recipients of the ARCS fellowship for the 2021-2022 school year. 
 
