@@ -1,6 +1,6 @@
 # News 
 ## Feb. 2022
-Our paper, "Brush it off": How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms, was accepted for publication at CHI 2022. 
+Our paper, ["Brush it off": How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms][CHI22], was accepted for publication at CHI 2022. 
 
 ## Dec. 2021
 I passed my qualifying exam and am now a PhD Candidate. 
@@ -40,4 +40,5 @@ I attended the CRA Grad Cohort for Underrepresented Minorities and People With D
 [futureworkplaces]: https://medium.com/acm-cscw/exploring-the-future-of-work-places-cscw-2019-workshop-summary-2f587f093df1
 [cscw19]: /docs/cscw19-workshop.pdf
 [hcic]: https://hcic.org/hcic2019/index.phtml
+[CHI22]: /docs/CHI2022_final.pdf
 

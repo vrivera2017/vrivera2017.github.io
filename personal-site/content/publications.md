@@ -10,7 +10,8 @@ menu:
 # Publications
 
 <!--### Journal Publications-->
-Ning F. Ma\*, **Veronica A. Rivera\***, Zheng Yao, Dongwook Yoon. *Brush it Off: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms*. (2022). In the Proceedings of 2022 CHI Conference on Human Factors in Computing Systems. (24.7% acceptance rate)
+Ning F. Ma\*, **Veronica A. Rivera\***, Zheng Yao, Dongwook Yoon. *Brush it Off: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms*. (2022). In the Proceedings of 2022 CHI Conference on Human Factors in Computing Systems. (24.7% acceptance rate)  
+\[[PDF][CHI22]\]
 
 **Veronica A. Rivera**, David T. Lee. *I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions*. (2021). In the Proceedings of the ACM - Human Computer Interaction (PACM-HCI), to be presented at CSCW 2021.  
 \[[PDF][cscw21]\]
@@ -42,3 +43,4 @@ Sam, Nelson, **Veronica Rivera**. *Quantum Enhancements of Involutory Birack Cou
 [cscw19]: /docs/cscw19-workshop.pdf
 [its18]: /docs/its-dc.pdf
 [isvc15]: /docs/visual-autonomy.pdf
+[CHI22]: /docs/CHI2022_final.pdf

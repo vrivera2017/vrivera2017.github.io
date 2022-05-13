@@ -5,21 +5,37 @@ menu:
     weight: 4
 ---
 
-# Teaching and Research Mentoring 
+# Teaching 
+<!--{{< teaching role = "TA" year = "2018" class = "Programming" site = "www.google.com" >}}
+python class
+{{< /teaching >}}-->
 
-### Teaching 
-I designed a new course, HCI 220 Ethics and Activism in Tech and Design, for the Human-Computer Interaction MS program at the UCSC Silicon Valley Campus. I will be teaching the course in in the Spring 2022 Quarter as a Teaching Fellow. 
+{{< teaching role = "Course Designer & Instructor" year = "2022" class = "UCSC HCI 220: Ethics and Activism in Tech and Design" site = "https://docs.google.com/document/d/1HYKa4xbeaTGMXnMdKk3Iwrq__1zo-cYeFyVnzmBHdIs/edit?usp=sharing">}}
+Graduate-level course surveying topics related to tech ethics (e.g. race and gender issues, privacy, AI bias) and tech activism (e.g. labor movements). Course topics discussed through a design lens.
+{{< /teaching >}}
 
-I have been also been a Graduate Teaching Assistant for the following courses at UC Santa Cruz:
-* CMPM 35 Data Structures for Interactive Media (Fall 2021)
-* CSE 20 Beginning Programming in Python (Spring 2021)
-* CMPM 178 Human-Centered Design Research (Winter 2021, Winter 2022) 
-* CMPS 12A Introduction to Programming, Accelerated (Fall 2018)
-* CMPS 5J Introduction to Programming in Java (Winter 2018, Spring 2018)
+{{< teaching role = "Teaching Assistant" year = "2022, 2021" class = "UCSC CMPM 178: Human-Centered Design Research" >}}
+Upper-division undergraduate course that introduces various methods used in the design-research process. These include user interviews, usability testing, and low-fidelity/high-fidelity prototyping.
+{{< /teaching >}}
 
-<!-- For these courses I was involved in leading multiple lab sections each week and holding weekly office hours. I helped students with lab and homework assignments, and helped them prepare for quizzes and exams. I was also responsible for grading assignments and exams, and overseeing undergraduate course tutors. For CMPM 178 specifically, I provide written feedback for students on in-class presentations and help support them in carrying out a quarter-long human-centered design project. -->
+{{< teaching role = "Teaching Assistant" year = "2021" class = "UCSC CMPM 35: Data Structures for Interactive Media" >}}
+Undergraduate intro computer science course for non-majors. Students learn common data structures and how to use them to create interactive media. 
+{{< /teaching >}}
 
-### Undergraduate Research Mentoring 
+{{< teaching role = "Teaching Assistant" year = "2018" class = "UCSC CSE 20: Beginning Programming in Python" >}}
+Introductory undergraduate computer science course that introduces novice students to the basics of programming. Topics include data types, functions, and control flow. 
+{{< /teaching >}}
+
+{{< teaching role = "Teaching Assistant" year = "2018" class = "UCSC CMPS 12A: Introduction to Programming, Accelerated" >}}
+Accelerated introductory undergraduate computer science course (taught in Java). Topics include functions, control flow, recursion, and basic data structures (e.g. arrays). 
+{{< /teaching >}}
+
+{{< teaching role = "Teaching Assistant" year = "2018 (x2)" class = "UCSC CMPS 5J: Introduction to Programming in Java" >}}
+Introductory undergraduate computer science course that introduces novice students to the baiscs of programming. 
+{{< /teaching >}}
+
+
+<!--### Undergraduate Research Mentoring 
 As part of the Tech4Good Lab I am involved in leading multiple teams of undergraduate research students each quarter. I have had the pleasure of mentoring the following UC Santa Cruz students in various areas related to my research: 
 * Sonia Atre (Fall 2019, data analytics)
 * Ashvini Bhupatiraju (Winter 2020 - present, UX research, qualitative research)  
@@ -32,4 +48,4 @@ As part of the Tech4Good Lab I am involved in leading multiple teams of undergra
 * Benjamin Paulsen (Spring 2020 - Winter 2021, UX research)
 * Victoria Shu (Fall 2019, data analytics)
 * Puja Vasan (Fall 2019, qualitative research)
-* Melanie Wong (Spring 2019, qualitative research)
+* Melanie Wong (Spring 2019, qualitative research)-->
