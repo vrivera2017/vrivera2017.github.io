@@ -1,4 +1,10 @@
 # News 
+## Sept. 2022
+I participated in the [Inclusive Security by Design][MuC22] workshop at Mensch und Computer (MuC) conference in Darmstadt, Germany.
+
+## July 2022
+I started as a visiting researcher at the Max Planck Institute for Software Systems in Saarbrücken, Germany. 
+
 ## Feb. 2022
 Our paper, ["Brush it off": How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms][CHI22], was accepted for publication at CHI 2022. 
 
@@ -41,4 +47,5 @@ I attended the CRA Grad Cohort for Underrepresented Minorities and People With D
 [cscw19]: /docs/cscw19-workshop.pdf
 [hcic]: https://hcic.org/hcic2019/index.phtml
 [CHI22]: /docs/CHI2022_final.pdf
+[MuC22]: http://isd.usec-muc.de/
 

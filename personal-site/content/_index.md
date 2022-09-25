@@ -8,9 +8,9 @@ menu:
 
 ## About Me
 
-I am a 5th year [Computational Media][compmedia] PhD candidate at the University of California, Santa Cruz where I study Human-Computer Interaction and Social Computing. I am a member of the [Tech4Good Lab][t4good] and am advised by David Lee. From July 2022 - January 2023 I will be a visiting researcher at the Max Planck Institute for Software Systems working with Elissa Redmiles in the Safety and Society group.
+I am a final year [Computational Media][compmedia] PhD candidate at the University of California, Santa Cruz where I study Human-Computer Interaction and Social Computing. I am a member of the [Tech4Good Lab][t4good] and am advised by David Lee. I am currently a visiting researcher at the Max Planck Institute for Software Systems working with Elissa Redmiles in the Safety and Society group.
 
-My research focuses on **supporting worker safety and well-being in the platform-based gig economy**. I am broadly interested in topics related to future of work, safety, security, and trust. I leverage qualitative and survey findings to think about how we might design systems and platforms that are more inclusive, safe, and worker-centered. I am also passionate about teaching. I designed and taught the first ethics class for the UCSC HCI Master's program. 
+My research focuses on **harm in digitally-mediated offline interactions**. In my dissertation research I have investigated such harms in the context of gig work. I am broadly interested in topics related to safety, security, and future of work. I leverage qualitative and survey findings to think about how we might design systems and policy that make our interactions with technology safer. I am also passionate about teaching; At UCSC I designed and taught the first ethics class for the HCI Master's program. 
 
 Prior to beginning my PhD I received a B.S degree in Joint Computer Science and Mathematics from [Harvey Mudd College][hmc] where I was supported by a 4 year [President's Scholarship][psp]. During my time at Harvey Mudd College I conducted research in Knot Theory with [Sam Nelson][nelson] and in Computer Vision/Robotics with [Zachary Dodds][dodds]. My undergraduate research experiences contributed greatly to my passion for scholarship and learning. 
 
@@ -38,7 +38,7 @@ What are the career goals of crowdworkers on Amazon Mechanical Turk? What challe
 [psp]: https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/presidents-scholars-program/ 
 [nelson]: https://www1.cmc.edu/pages/faculty/VNelson/
 [dodds]: https://www.cs.hmc.edu/~dodds/ 
-[CV]: /docs/CV_Spring_2022.pdf
+[CV]: /docs/cv-sep22.pdf
 [Elissa]: https://elissaredmiles.com/
 
 
