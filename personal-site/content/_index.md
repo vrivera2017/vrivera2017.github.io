@@ -16,7 +16,7 @@ Prior to beginning my PhD I received a B.S degree in Joint Computer Science and 
 
 [View my CV (updated Dec. 2022)][CV]
 
-## Research Projects
+<!--## Research Projects
 {{< project-icons image = "/images/trust.jpg">}}
 #### Bias, Harassment, and Safety in Gig Work 
 What are the perceptions and experiences of bias and harassment among gig workers from vulnerable groups? How do platforms further perpetuate these harms? 
@@ -25,7 +25,7 @@ What are the perceptions and experiences of bias and harassment among gig worker
 {{< project-icons image = "/images/amt-icon.jpg">}}
 #### Career Development on Amazon Mechanical Turk 
 What are the career goals of crowdworkers on Amazon Mechanical Turk? What challenges do they face in pursuing their career goals? How do environmental factors within crowdwork platforms support or inhibit their pursuit of career goals? 
-{{< /project-icons >}}
+{{< /project-icons >}} -->
 
 
 
@@ -35,7 +35,8 @@ What are the career goals of crowdworkers on Amazon Mechanical Turk? What challe
 [psp]: https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/presidents-scholars-program/ 
 [nelson]: https://www1.cmc.edu/pages/faculty/VNelson/
 [dodds]: https://www.cs.hmc.edu/~dodds/ 
-[CV]: /docs/cv-sep22.pdf
+[CV]: /docs/cv__dec22.pdf
 [Elissa]: https://elissaredmiles.com/
+
 
 

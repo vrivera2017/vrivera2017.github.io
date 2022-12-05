@@ -8,13 +8,13 @@ menu:
 
 
 # Publications
-
+\* indicates equal contribution, listed in alphabetical order by last name.
 <!--### Journal Publications-->
 Ning F. Ma\*, **Veronica A. Rivera\***, Zheng Yao, Dongwook Yoon. *Brush it Off: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms*. (2022). In the Proceedings of 2022 CHI Conference on Human Factors in Computing Systems. (24.7% acceptance rate)  
-\[[PDF][CHI22]\]
+\[[PDF][CHI22]\]\[[ACM DL][acm-chi22]\][[video][video-chi22]\]
 
-**Veronica A. Rivera**, David T. Lee. *I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions*. (2021). In the Proceedings of the ACM - Human Computer Interaction (PACM-HCI), to be presented at CSCW 2021.  
-\[[PDF][cscw21]\]
+**Veronica A. Rivera**, David T. Lee. *I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions*. (2021). In the Proceedings of the ACM - Human Computer Interaction (PACM-HCI), presented at CSCW 2021.  
+\[[PDF][cscw21]\] \[[ACM DL][acm-cscw21]\][[video][video-cscw21]\]
 
 **Veronica A. Rivera**, David T. Lee. *It Takes a Village to Change Jobs: Towards Workplace Relationships that Support Reskilling in Crowdwork*. (2019) In *The Future of Work(places): Creating a Sense of Place for On-Demand Work*. Workshop conducted at the ACM Conference on Computer-Supported Cooperative Work and Social Computing. CSCW 2019.  
 \[[PDF][cscw19]\]
@@ -44,3 +44,7 @@ Sam, Nelson, **Veronica Rivera**. *Quantum Enhancements of Involutory Birack Cou
 [its18]: /docs/its-dc.pdf
 [isvc15]: /docs/visual-autonomy.pdf
 [CHI22]: /docs/CHI2022_final.pdf
+[video-cscw21]: https://youtu.be/RdLVp7fTp3U
+[acm-cscw21]: https://dl.acm.org/doi/abs/10.1145/3449224
+[acm-chi22]: https://dl.acm.org/doi/abs/10.1145/3491102.3517524
+[video-chi22]: https://youtu.be/ByRh6MUDNWE
