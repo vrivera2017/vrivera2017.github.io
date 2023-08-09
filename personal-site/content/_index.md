@@ -8,9 +8,11 @@ menu:
 
 ## About Me
 
-I am an Embedded Ethics Postdoctoral Fellow at Stanford University, jointly appointed at the [Institute for Human-Centered AI (HAI)][hai] and the [McCoy Family Center for Ethics in Society][ethics-center]. My research is on digital safety and security in social computing systems. I am interested in understanding the harms that users face when interacting with these systems, how they protect themselves, and how to design interventions to support users' protective strategies. I am a Human-Computer Interaction researcher by training and my work spans HCI and security. At Stanford I work with [Zakir Durumeric][Zakir] in the [Empirical Security Research Group][esrg]. I also work with [Elissa Redmiles][Elissa] (Georgetown University). I will be on the academic job market in Fall 2024 for positions starting in Fall 2025. 
+I am an Embedded Ethics Postdoctoral Fellow at Stanford University, jointly appointed at the [Institute for Human-Centered AI (HAI)][hai] and the [McCoy Family Center for Ethics in Society][ethics-center]. 
 
-I completed my PhD in Computational Media at the University of California, Santa Cruz, advised by David Lee. During my PhD I also worked closely with Elissa Redmiles as a visiting student at the Max Planck Institute for Software Systems. Prior to my PhD, I received a B.S degree in Joint Computer Science and Mathematics from [Harvey Mudd College][hmc] where I was supported by a 4 year [President's Scholarship][psp]. My undergraduate research experiences contributed greatly to my passion for scholarship and learning. 
+My research is on digital safety and security in social computing systems. I use human-centered methods to understand the harms that users face when interacting with these systems, how they protect themselves, and how to design interventions to support users' protective strategies. At Stanford I work with [Zakir Durumeric][Zakir] in the [Empirical Security Research Group][esrg]. I also work closely with [Elissa Redmiles][Elissa] (Georgetown University). I will be on the academic job market in Fall 2024 for positions starting in Fall 2025. 
+
+I completed my PhD in Computational Media at the University of California, Santa Cruz, where I was advised by David Lee. During my PhD I also worked closely with Elissa Redmiles as a visiting student at the Max Planck Institute for Software Systems. Prior to my PhD, I received a B.S degree in Joint Computer Science and Mathematics from Harvey Mudd College where I was supported by a 4 year President's Scholarship. My time at Harvey Mudd contributed greatly to my passion for scholarship and learning. 
 
 [View my CV (updated Aug. 2023)][CV]
 
