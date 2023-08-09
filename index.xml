@@ -5,12 +5,7 @@
     <link>https://vrivera2017.github.io/</link>
     <description>Recent content on Veronica Rivera</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 06 Dec 2018 21:30:40 -0800</lastBuildDate>
-    
-	<atom:link href="https://vrivera2017.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://vrivera2017.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://vrivera2017.github.io/publications/</link>
@@ -29,10 +24,11 @@ Veronica A. Rivera, David T. Lee. I Want to, but First I Need to: Understanding 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vrivera2017.github.io/news/</guid>
-      <description>News Sept. 2022 I participated in the Inclusive Security by Design workshop at Mensch und Computer (MuC) conference in Darmstadt, Germany.
-July 2022 I started as a visiting researcher at the Max Planck Institute for Software Systems in Saarbrücken, Germany.
-Feb. 2022 Our paper, &amp;ldquo;Brush it off&amp;rdquo;: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms, was accepted for publication at CHI 2022.
-Dec. 2021 I passed my qualifying exam and am now a PhD Candidate.</description>
+      <description>News June 2023 I participated in the Workshop on Security and Human Behavior at Carnegie Mellon University
+May 2023 I successfully defended my dissertation at UC Santa Cruz!
+Feb. 2023 I accepted a postion as an Embedded Ethics Postdoctoral Fellow at Stanford University
+Sept. 2022 I participated in the Inclusive Security by Design workshop at Mensch und Computer (MuC) conference in Darmstadt, Germany.
+July 2022 I started as a visiting researcher at the Max Planck Institute for Software Systems in Saarbrücken, Germany.</description>
     </item>
     
     <item>
@@ -41,7 +37,7 @@ Dec. 2021 I passed my qualifying exam and am now a PhD Candidate.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vrivera2017.github.io/research/</guid>
-      <description>Research Project Summaries Career Development and Online Crowdwork   This is an ongoing project in which I seek to understand the career goals of workers on Amazon Mechanical Turk, and how the online on-demand labor platform contributes to unique challenges in developing workers&amp;rsquo; careers overtime. I&#39;m interested in understanding how these challenges may create difficulties for workers who want to transition careers into specialized online freelance work or white-collar jobs in more traditional brick-and-mortar organizations.</description>
+      <description>Research Project Summaries Career Development and Online Crowdwork This is an ongoing project in which I seek to understand the career goals of workers on Amazon Mechanical Turk, and how the online on-demand labor platform contributes to unique challenges in developing workers&amp;rsquo; careers overtime. I&amp;rsquo;m interested in understanding how these challenges may create difficulties for workers who want to transition careers into specialized online freelance work or white-collar jobs in more traditional brick-and-mortar organizations.</description>
     </item>
     
     <item>
@@ -50,7 +46,7 @@ Dec. 2021 I passed my qualifying exam and am now a PhD Candidate.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vrivera2017.github.io/other/</guid>
-      <description>Additional Projects College Scorecard Data Explorer   Application in use. Displaying admissions rate vs. in-state tuition for institutions in CA, FL, NV, and VT.    Motivation: Recently I found that the U.S Department of Education maintains a dataset called the College Scorecard Dataset, which contains aggregate information for various institutions of higher education in the U.S such as costs and admissions statistics. This information could be incredibly useful for students and families, yet it is difficult to parse through and the amount of information is overwhelming.</description>
+      <description>Additional Projects College Scorecard Data Explorer Application in use. Displaying admissions rate vs. in-state tuition for institutions in CA, FL, NV, and VT. Motivation: Recently I found that the U.S Department of Education maintains a dataset called the College Scorecard Dataset, which contains aggregate information for various institutions of higher education in the U.S such as costs and admissions statistics. This information could be incredibly useful for students and families, yet it is difficult to parse through and the amount of information is overwhelming.</description>
     </item>
     
     <item>
@@ -59,7 +55,7 @@ Dec. 2021 I passed my qualifying exam and am now a PhD Candidate.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vrivera2017.github.io/teaching/</guid>
-      <description>Teaching Course Designer &amp;amp; Instructor  2022   UCSC HCI 220: Ethics and Activism in Tech and Design  Graduate-level course surveying topics related to tech ethics (e.g. race and gender issues, privacy, AI bias) and tech activism (e.g. labor movements). Course topics discussed through a design lens. [site]     Teaching Assistant  2022, 2021   UCSC CMPM 178: Human-Centered Design Research  Upper-division undergraduate course that introduces various methods used in the design-research process.</description>
+      <description>Teaching Course Designer &amp;amp; Instructor 2023 Stanford University SPCS Ethics in Tech 2 week high school course on ethics in technology. Based on my UCSC HCI 220 graduate-level course. Course Designer &amp;amp; Instructor 2023 UCSC HCI 220: Ethics and Activism in Tech and Design Graduate-level course surveying topics related to tech ethics (e.g. race and gender issues, privacy, AI bias) and tech activism (e.g. labor movements). Course topics discussed through a design lens.</description>
     </item>
     
   </channel>

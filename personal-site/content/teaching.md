@@ -10,6 +10,14 @@ menu:
 python class
 {{< /teaching >}}-->
 
+{{< teaching role = "Course Designer & Instructor" year = "2023" class = "Stanford University SPCS Ethics in Tech">}}
+2 week high school course on ethics in technology. Based on my UCSC HCI 220 graduate-level course.  
+{{< /teaching >}}
+
+{{< teaching role = "Course Designer & Instructor" year = "2023" class = "UCSC HCI 220: Ethics and Activism in Tech and Design" site = "https://sites.google.com/ucsc.edu/hci220w23/home">}}
+Graduate-level course surveying topics related to tech ethics (e.g. race and gender issues, privacy, AI bias) and tech activism (e.g. labor movements). Course topics discussed through a design lens. Made a required course by the program director after the first offering in 2022. 
+{{< /teaching >}}
+
 {{< teaching role = "Course Designer & Instructor" year = "2022" class = "UCSC HCI 220: Ethics and Activism in Tech and Design" site = "https://docs.google.com/document/d/1HYKa4xbeaTGMXnMdKk3Iwrq__1zo-cYeFyVnzmBHdIs/edit?usp=sharing">}}
 Graduate-level course surveying topics related to tech ethics (e.g. race and gender issues, privacy, AI bias) and tech activism (e.g. labor movements). Course topics discussed through a design lens.
 {{< /teaching >}}

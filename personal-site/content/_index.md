@@ -8,13 +8,11 @@ menu:
 
 ## About Me
 
-I am a [Computational Media][compmedia] PhD candidate at the University of California, Santa Cruz where I study Human-Computer Interaction and am advised by David Lee. I also work closely with Elissa Redmiles at the Max Planck Institute for Software Systems, where I am currently a visiting researcher in the Safety and Society group.
+I am an Embedded Ethics Postdoctoral Fellow at Stanford University, jointly appointed at the [Institute for Human-Centered AI (HAI)][hai] and the [McCoy Family Center for Ethics in Society][ethics-center]. My research is on digital safety and security in social computing systems. I am interested in understanding the harms that users face when interacting with these systems, how they protect themselves, and how to design interventions to support users' protective strategies. I am a Human-Computer Interaction researcher by training and my work spans HCI and security. At Stanford I work with [Zakir Durumeric][Zakir] in the [Empirical Security Research Group][esrg]. I also work with [Elissa Redmiles][Elissa] (Georgetown University). I will be on the academic job market in Fall 2024 for positions starting in Fall 2025. 
 
-My research focuses on **harm in digitally-mediated offline interactions**. In my dissertation research I have investigated such harms in the context of gig work. I am broadly interested in topics related to safety, security, digital harm and/or future of work. I leverage qualitative and survey findings to think about how we might design systems and policy that make our interactions with technology safer. I am also passionate about teaching; At UCSC I designed and taught the first ethics class for the HCI Master's program. 
+I completed my PhD in Computational Media at the University of California, Santa Cruz, advised by David Lee. During my PhD I also worked closely with Elissa Redmiles as a visiting student at the Max Planck Institute for Software Systems. Prior to my PhD, I received a B.S degree in Joint Computer Science and Mathematics from [Harvey Mudd College][hmc] where I was supported by a 4 year [President's Scholarship][psp]. My undergraduate research experiences contributed greatly to my passion for scholarship and learning. 
 
-Prior to beginning my PhD I received a B.S degree in Joint Computer Science and Mathematics from [Harvey Mudd College][hmc] where I was supported by a 4 year [President's Scholarship][psp]. During my time at Harvey Mudd College I conducted research in Knot Theory with [Sam Nelson][nelson] and in Computer Vision/Robotics with [Zachary Dodds][dodds]. My undergraduate research experiences contributed greatly to my passion for scholarship and learning. 
-
-[View my CV (updated Dec. 2022)][CV]
+[View my CV (updated Aug. 2023)][CV]
 
 <!--## Research Projects
 {{< project-icons image = "/images/trust.jpg">}}
@@ -29,14 +27,13 @@ What are the career goals of crowdworkers on Amazon Mechanical Turk? What challe
 
 
 
-[hmc]: https://www.hmc.edu/
-[compmedia]: https://grad.soe.ucsc.edu/computational-media
-[t4good]: https://tech4good.soe.ucsc.edu/
+[hai]: https://hai.stanford.edu/
+[ethics-center]: https://ethicsinsociety.stanford.edu/
 [psp]: https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/presidents-scholars-program/ 
-[nelson]: https://www1.cmc.edu/pages/faculty/VNelson/
-[dodds]: https://www.cs.hmc.edu/~dodds/ 
-[CV]: /docs/cv__dec22.pdf
+[CV]: /docs/Rivera_CV_Aug23.pdf
 [Elissa]: https://elissaredmiles.com/
+[Zakir]: https://zakird.com/
+[esrg]: https://esrg.stanford.edu/
 
 
 

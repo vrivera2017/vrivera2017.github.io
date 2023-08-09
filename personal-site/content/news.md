@@ -1,4 +1,14 @@
 # News 
+
+## June 2023
+I participated in the Workshop on Security and Human Behavior at Carnegie Mellon University
+
+## May 2023
+I successfully defended my dissertation at UC Santa Cruz!
+
+## Feb. 2023
+I accepted a postion as an Embedded Ethics Postdoctoral Fellow at Stanford University
+
 ## Sept. 2022
 I participated in the [Inclusive Security by Design][MuC22] workshop at Mensch und Computer (MuC) conference in Darmstadt, Germany.
 
