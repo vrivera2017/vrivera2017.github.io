@@ -10,6 +10,11 @@ menu:
 # Publications
 \* indicates equal contribution, listed in alphabetical order by last name.
 <!--### Journal Publications-->
+Jessica Huang, Ning F. Ma, **Veronica A. Rivera**, Tabreek Somani, Joanna McGrenere, Dongwook Yoon. *Design Tensions in Online Freelancing Platforms: Using Speculative Participatory Design to Support Freelancers' Relationships with Clients. (2024). To appear in the Proceedings of the ACM - Human-Computer Interaction (PACM-HCI), to be presented at CSCW 2024. 
+
+**Veronica A. Rivera**, Norman Makoto Su, *Teaching Ethics and Activism in a Human-Computer Interaction Professional Master's Program*. (2024). In the Proceedings of the 2024 ACM Technical Symposium on Computer Science Education \
+\[[PDF][sigcse24]\]\[[ACM DL][acm-sigcse24]\]
+
 Ning F. Ma\*, **Veronica A. Rivera\***, Zheng Yao, Dongwook Yoon. *Brush it Off: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms*. (2022). In the Proceedings of 2022 CHI Conference on Human Factors in Computing Systems. (24.7% acceptance rate)  
 \[[PDF][CHI22]\]\[[ACM DL][acm-chi22]\][[video][video-chi22]\]
 
@@ -36,7 +41,7 @@ Sam, Nelson, **Veronica Rivera**. *Quantum Enhancements of Involutory Birack Cou
 
 <!--### Workshop and Consortia Papers -->
 
-
+[sigcse24]: /docs/SIGCSE2024.pdf
 [cscw21]: /docs/CSCW_2021_Camera_Ready.pdf
 [biquandle]: /docs/biquandle-brackets.pdf
 [invariants]: /docs/counting-invariants.pdf
@@ -47,4 +52,5 @@ Sam, Nelson, **Veronica Rivera**. *Quantum Enhancements of Involutory Birack Cou
 [video-cscw21]: https://youtu.be/RdLVp7fTp3U
 [acm-cscw21]: https://dl.acm.org/doi/abs/10.1145/3449224
 [acm-chi22]: https://dl.acm.org/doi/abs/10.1145/3491102.3517524
+[acm-sigcse24]: https://dl.acm.org/doi/abs/10.1145/3626252.3630939
 [video-chi22]: https://youtu.be/ByRh6MUDNWE

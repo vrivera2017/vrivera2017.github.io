@@ -1,8 +1,8 @@
 ---
-title: "Other Projects"
-menu:
-  main:
-    weight: 5
+#title: "Other Projects"
+#menu:
+#  main:
+#    weight: 5
 ---
 # Additional Projects
 

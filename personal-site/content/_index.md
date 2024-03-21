@@ -14,7 +14,7 @@ I study the digital safety and security needs of marginalized and vulnerable pop
 
 I completed my PhD in Computational Media at the University of California, Santa Cruz, where I was advised by David Lee. During my PhD I also worked closely with Elissa Redmiles as a visiting student at the Max Planck Institute for Software Systems. Prior to my PhD, I received a B.S degree in Joint Computer Science and Mathematics from Harvey Mudd College where I was supported by a 4 year President's Scholarship. My time at Harvey Mudd contributed greatly to my passion for scholarship and learning. 
 
-[View my CV (updated Aug. 2023)][CV]
+[View my CV (updated March 2024)][CV]
 
 <!--## Research Projects
 {{< project-icons image = "/images/trust.jpg">}}
@@ -32,7 +32,7 @@ What are the career goals of crowdworkers on Amazon Mechanical Turk? What challe
 [hai]: https://hai.stanford.edu/
 [ethics-center]: https://ethicsinsociety.stanford.edu/
 [psp]: https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/presidents-scholars-program/ 
-[CV]: /docs/Rivera_CV_Aug23.pdf
+[CV]: /docs/Rivera_CV_March24.pdf
 [Elissa]: https://elissaredmiles.com/
 [Zakir]: https://zakird.com/
 [esrg]: https://esrg.stanford.edu/

@@ -13,9 +13,8 @@
       
       <guid>https://vrivera2017.github.io/publications/</guid>
       <description>Publications * indicates equal contribution, listed in alphabetical order by last name.
-Ning F. Ma*, Veronica A. Rivera*, Zheng Yao, Dongwook Yoon. Brush it Off: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms. (2022). In the Proceedings of 2022 CHI Conference on Human Factors in Computing Systems. (24.7% acceptance rate)
-[PDF][ACM DL][video]
-Veronica A. Rivera, David T. Lee. I Want to, but First I Need to: Understanding Crowdworkers&amp;rsquo; Career Goals, Challenges, and Tensions.</description>
+Jessica Huang, Ning F. Ma, Veronica A. Rivera, Tabreek Somani, Joanna McGrenere, Dongwook Yoon. *Design Tensions in Online Freelancing Platforms: Using Speculative Participatory Design to Support Freelancers&amp;rsquo; Relationships with Clients. (2024). To appear in the Proceedings of the ACM - Human-Computer Interaction (PACM-HCI), to be presented at CSCW 2024.
+Veronica A. Rivera, Norman Makoto Su, Teaching Ethics and Activism in a Human-Computer Interaction Professional Master&amp;rsquo;s Program.</description>
     </item>
     
     <item>
@@ -33,20 +32,20 @@ July 2022 I started as a visiting researcher at the Max Planck Institute for Sof
     
     <item>
       <title></title>
-      <link>https://vrivera2017.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vrivera2017.github.io/research/</guid>
-      <description>Research Project Summaries Career Development and Online Crowdwork This is an ongoing project in which I seek to understand the career goals of workers on Amazon Mechanical Turk, and how the online on-demand labor platform contributes to unique challenges in developing workers&amp;rsquo; careers overtime. I&amp;rsquo;m interested in understanding how these challenges may create difficulties for workers who want to transition careers into specialized online freelance work or white-collar jobs in more traditional brick-and-mortar organizations.</description>
-    </item>
-    
-    <item>
-      <title>Other Projects</title>
       <link>https://vrivera2017.github.io/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vrivera2017.github.io/other/</guid>
       <description>Additional Projects College Scorecard Data Explorer Application in use. Displaying admissions rate vs. in-state tuition for institutions in CA, FL, NV, and VT. Motivation: Recently I found that the U.S Department of Education maintains a dataset called the College Scorecard Dataset, which contains aggregate information for various institutions of higher education in the U.S such as costs and admissions statistics. This information could be incredibly useful for students and families, yet it is difficult to parse through and the amount of information is overwhelming.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vrivera2017.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrivera2017.github.io/research/</guid>
+      <description>Research Project Summaries Career Development and Online Crowdwork This is an ongoing project in which I seek to understand the career goals of workers on Amazon Mechanical Turk, and how the online on-demand labor platform contributes to unique challenges in developing workers&amp;rsquo; careers overtime. I&amp;rsquo;m interested in understanding how these challenges may create difficulties for workers who want to transition careers into specialized online freelance work or white-collar jobs in more traditional brick-and-mortar organizations.</description>
     </item>
     
     <item>
