@@ -6,3 +6,9 @@ theme: "main"
 
 pygmentsCodeFences: true
 pygmentsStyle: rainbow_dash
+
+markup: 
+  goldmark:
+    renderer:
+      unsafe: true
+

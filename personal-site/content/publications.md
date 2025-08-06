@@ -8,61 +8,68 @@ menu:
 
 
 # Publications
-### Peer-Reviewed Journal and Conference Publications ###
-\* indicates equal contribution, listed in alphabetical order by last name.\
-*I publish primarily in computer science journals and conference proceedings, where authors are listed in order of contribution. Some of my early work is published in math journals, where authors are listed alphabetically*
-<!--### Journal Publications-->
-**Safer Algorithmically-Mediated Offline Introductions: Harms and Protective Behaviors** \
-**Veronica A. Rivera**, Daricia Wilkinson, Aurelia Augusta, Sophie Li, Elissa M. Redmiles, Angelika Strohmayer. \
-Proceedings of the ACM - Human-Computer Interaction (CSCW), 2024. \
-\[[PDF][cscw24b]\]
+\* denotes co first author.
+<!--I publish primarily in computer science journals and conference proceedings, where authors are listed in order of contribution. Some of my early work is published in math journals, where authors are listed alphabetically. -->
 
-**Design Tensions in Online Freelancing Platforms: Using Speculative Participatory Design to Support Freelancers' Relationships with Clients** \
+### Peer-Reviewed Journal and Conference Publications ###
+
+<!--### Journal Publications-->
+<span class = "paper-titles"> Perfect is the Enemy of Good": The CISO's Role in Enterprise Security as a Business Enabler </span>\
+Kimberly Ruth, **Veronica A. Rivera**, Gautam Akiwate, Aurore Fass, Patrick Gage Kelley, Kurt Thomas, Zakir Durumeric. \
+*CHI 2025*\
+\[[PDF][chi25]\]\[[ACM DL][acm-chi25]\]
+
+<span class = "paper-titles"> Safer Algorithmically-Mediated Offline Introductions: Harms and Protective Behaviors </span> \
+**Veronica A. Rivera**, Daricia Wilkinson, Aurelia Augusta, Sophie Li, Elissa M. Redmiles, Angelika Strohmayer. \
+*CSCW 2024* \
+\[[PDF][cscw24b]\]\[[ACM DL][acm-cscw24b]\]
+
+<span class = "paper-titles"> Design Tensions in Online Freelancing Platforms: Using Speculative Participatory Design to Support Freelancers' Relationships with Clients </span> \
 Jessica Huang, Ning F. Ma, **Veronica A. Rivera**, Tabreek Somani, Joanna McGrenere, Dongwook Yoon.\
-Proceedings of the ACM - Human-Computer Interaction (CSCW), 2024. \
+*CSCW 2024* \
 \[[PDF][cscw24a]\]\[[ACM DL][acm-cscw24a]\]
 
-**Teaching Ethics and Activism in a Human-Computer Interaction Professional Master's Program** \
+<span class = "paper-titles"> Teaching Ethics and Activism in a Human-Computer Interaction Professional Master's Program </span> \
 **Veronica A. Rivera**, Norman Makoto Su. \
-Proceedings of the ACM Technical Symposium on Computer Science Education (SIGCSE), 2024. \
+*SIGCSE 2024* \
 \[[PDF][sigcse24]\]\[[ACM DL][acm-sigcse24]\]
 
-**Brush it Off: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms** \
+<span class = "paper-titles"> Brush it Off: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms </span> \
 Ning F. Ma\*, **Veronica A. Rivera\***, Zheng Yao, Dongwook Yoon.\
-Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI), 2022.\
+*CHI 2022* \
 \[[PDF][CHI22]\]\[[ACM DL][acm-chi22]\][[video][video-chi22]\]
 <!--(24.7% acceptance rate)-->
 
-**I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions** \
+<span class = "paper-titles"> I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions </span> \
 **Veronica A. Rivera**, David T. Lee.\
-Proceedings of the ACM - Human Computer Interaction (CSCW), 2021.  
+*CSCW 2021*.  
 \[[PDF][cscw21]\] \[[ACM DL][acm-cscw21]\][[video][video-cscw21]\]
 
-**Quantum Enhancements and Biquandle Brackets**\
+<span class = "paper-titles"> Quantum Enhancements and Biquandle Brackets </span> \
 Sam Nelson, Michael Orrison, **Veronica Rivera**. \
-The Journal of Knot Theory and its Ramifications, 26(5), 2017.  
+*The Journal of Knot Theory and its Ramifications, 26(5), 2017*.  
 \[[PDF][biquandle]\]
 
-**Visual Autonomy via 2D Matching in Rendered 3D Models**\
+<span class = "paper-titles"> Visual Autonomy via 2D Matching in Rendered 3D Models </span> \
 D. Tenorio, **V. Rivera**, J. Medina, A. Leondar, M. Gaumer, Z. Dodds.\
-Proceedings of the 11th International Symposium on Visual Computing (ISVC), 2015.  
+*ISVC 2015*.  
 \[[PDF][isvc15]\]
 
-**Quantum Enhancements of Involutory Birack Counting Invariants**\
+<span class = "paper-titles"> Quantum Enhancements of Involutory Birack Counting Invariants </span> \
 Sam, Nelson, **Veronica Rivera**.\
-The Journal of Knot Theory and its Ramifications, 23(7), 2014\
+*The Journal of Knot Theory and its Ramifications, 23(7), 2014* \
 \[[PDF][invariants]\]
 
 ### Lightly Peer-Reviewed Workshop Publications ###
-**It Takes a Village to Change Jobs: Towards Workplace Relationships that Support Reskilling in Crowdwork**\
+<span class = "paper-titles"> It Takes a Village to Change Jobs: Towards Workplace Relationships that Support Reskilling in Crowdwork </span>\
 **Veronica A. Rivera**, David T. Lee.\
 *The Future of Work(places): Creating a Sense of Place for On-Demand Work*.\
- Workshop conducted at the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), 2019.  
+*CSCW 2019* \
 \[[PDF][cscw19]\]
 
-**A New Approach to Testing Children with Autism Spectrum Disorders Using Affect**\
-**Veronica Rivera**. 
-Proceedings of the 14th International Conference on Intelligent Tutoring Systems (ITS), 2018.  
+<span class = "paper-titles"> A New Approach to Testing Children with Autism Spectrum Disorders Using Affect </span> \
+**Veronica Rivera**. \
+*ITS 2018*.  \
 \[[PDF][its18]\]
 
 
@@ -72,6 +79,8 @@ Proceedings of the 14th International Conference on Intelligent Tutoring Systems
 
 
 <!--### Workshop and Consortia Papers -->
+[chi25]: /docs/CHI25_Ruth.pdf
+[acm-chi25]: https://dl.acm.org/doi/10.1145/3706598.3713895
 [cscw24b]: /docs/CSCW24_Rivera.pdf
 [cscw24a]: /docs/CSCW24_Huang.pdf
 [sigcse24]: /docs/SIGCSE2024.pdf
@@ -83,6 +92,7 @@ Proceedings of the 14th International Conference on Intelligent Tutoring Systems
 [isvc15]: /docs/visual-autonomy.pdf
 [CHI22]: /docs/CHI2022_final.pdf
 [video-cscw21]: https://youtu.be/RdLVp7fTp3U
+[acm-cscw24b]: https://dl.acm.org/doi/10.1145/3686948
 [acm-cscw24a]: https://dl.acm.org/doi/abs/10.1145/3653700
 [acm-cscw21]: https://dl.acm.org/doi/abs/10.1145/3449224
 [acm-chi22]: https://dl.acm.org/doi/abs/10.1145/3491102.3517524

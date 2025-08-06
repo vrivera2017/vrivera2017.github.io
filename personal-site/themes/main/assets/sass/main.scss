@@ -9,11 +9,14 @@
 @import 'news'; 
 @import 'research'; 
 @import 'project-icons';
+@import 'service'; 
 
 $text-color: #494e52;
 //$link-color: #077cd2;
 //old color $link-color: #2E9CCA; 
-$link-color: #1a73e8;
+//old color 2 $link-color: #1a73e8;
+$link-color: #59c9a5;
+//$link-color: #42c686; 
 //$header-color: rgb(56, 23, 241);
 //$header-color: #743CDE; 
 //$header-color: #d17480; 
@@ -47,8 +50,8 @@ a {
 h2,
 h3 {
   font-family: $sans;
-  font-weight: 400;
-  color: $header-color;
+  font-weight: 200;
+  padding-top: 10px;
 }
 
 h1.title {
@@ -62,11 +65,15 @@ h1.title {
 }
 
 .page-container {
-  margin: 30px auto auto 20px;
-  padding-right: 100px;
-  padding-left: 20px;
+  margin: 0 auto;
+  //padding-right: 100px;
+  //padding-left: 100px;
+  //padding-top: 80px;
+  margin: 50px auto; 
+  padding-bottom: 50px;
   display: flex;
   flex-direction: row;
+  width: 950px;
 }
 
 .monospace {
@@ -89,4 +96,9 @@ h1.title {
 .justify-center {
   display: flex;
   justify-content: center;
+}
+
+.paper-titles {
+  color: #0b668a; 
+  font-weight: bold; 
 }
