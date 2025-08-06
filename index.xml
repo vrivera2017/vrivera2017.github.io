@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Veronica Rivera</title>
+    <title>Veronica A. Rivera on Veronica Rivera</title>
     <link>https://vrivera2017.github.io/</link>
-    <description>Recent content on Veronica Rivera</description>
+    <description>Recent content in Veronica A. Rivera on Veronica Rivera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://vrivera2017.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,9 +12,10 @@
       <pubDate>Thu, 06 Dec 2018 21:30:40 -0800</pubDate>
       
       <guid>https://vrivera2017.github.io/publications/</guid>
-      <description>Publications Peer-Reviewed Journal and Conference Publications * indicates equal contribution, listed in alphabetical order by last name.
-I publish primarily in computer science journals and conference proceedings, where authors are listed in order of contribution. Some of my early work is published in math journals, where authors are listed alphabetically
-Safer Algorithmically-Mediated Offline Introductions: Harms and Protective Behaviors Veronica A. Rivera, Daricia Wilkinson, Aurelia Augusta, Sophie Li, Elissa M. Redmiles, Angelika Strohmayer.</description>
+      <description>Publications * denotes co first author.
+Peer-Reviewed Journal and Conference Publications Perfect is the Enemy of Good&amp;quot;: The CISO&amp;rsquo;s Role in Enterprise Security as a Business Enabler Kimberly Ruth, Veronica A. Rivera, Gautam Akiwate, Aurore Fass, Patrick Gage Kelley, Kurt Thomas, Zakir Durumeric. CHI 2025
+[PDF][ACM DL]
+Safer Algorithmically-Mediated Offline Introductions: Harms and Protective Behaviors Veronica A. Rivera, Daricia Wilkinson, Aurelia Augusta, Sophie Li, Elissa M. Redmiles, Angelika Strohmayer. CSCW 2024 [PDF][ACM DL]</description>
     </item>
     
     <item>
@@ -49,12 +50,31 @@ July 2022 I started as a visiting researcher at the Max Planck Institute for Sof
     </item>
     
     <item>
+      <title>Service</title>
+      <link>https://vrivera2017.github.io/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrivera2017.github.io/service/</guid>
+      <description>Service Program Committee USENIX Security: 2026, 2025 CHI (Associate Chair): 2026 CSCW (Associate Chair): 2024 External Reviewer USENIX Security: 2024 (subreviewer) CSCW: 2024 (outstanding reviewer x3), 2021 (outstanding reviewer), 2020, 2019 CHI: 2022 New Media and Society: 2023 Human-Computer Interaction Journal: 2019 </description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://vrivera2017.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrivera2017.github.io/talks/</guid>
+      <description>Talks Digital Safety: A Problem at the Intersection of Security, Engineering, and Society Harvey Mudd College: June 2025 [slides] Digital Safety Beyond the Platform Carnegie Mellon University: May 2025 Ithaca College: April 2025 Georgia Institute of Technology: April 2025 University of Virginia: April 2025 Cornell University: March 2025 University of Toronto: March 2025 University of California, Los Angeles: March 2025 University of Oregon: February 2025 Safety in Algorithmically-Mediated Offline Introductions Stanford Computer Forum Security Workshop: April 2024 [video] Stanford HAI Fellows Workshop: March 2024 PRISM NSF Site Visit: March 2024 Georgetown University Massive Data Institute Tea Time: February 2024 University of Maryland HCIL Brown Bag Lunch Seminar: February 2024 [video] Stanford University HCI Lunch: February 2024 Safety in Algorithmically-Mediated Offline Introductions: Lessons for Research, Design, and Policy Stanford Women in CS Meeting: May 2024 Stanford Tech Ethics and Policy Career Pathways: May 2024 [slides] Post-Digital Safety in Digitally-Mediated Offline Interactions UC San Diego HCI Seminar: March 2023 Stanford University Security Lunch: February 2023 Stanford University Computing and Society Seminar: January 2023 Mensch und Computer Workshop on Inclusive Security by Design: September 2022 Long-Term Worker Well-Being in the Future of Work Stanford University HCI Lunch: April 2022 </description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://vrivera2017.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vrivera2017.github.io/teaching/</guid>
-      <description>Teaching Stanford Ethics Curriculum Developer &amp;amp; Instructor 2023, 2024 (x2) CS 221: Artificial Intelligence: Principles and Techniques Intro-level computer systems Large intro-level AI course Ethics Curriculum Developer &amp;amp; Instructor 2023 CS 177: Human-Centered Product Management Intro-level computer systems Product management course focusing on design, organizational, and interpersonal skills Ethics Curriculum Developer &amp;amp; Instructor 2024 CS 124: From Language to Information Intro-level computer systems Intro-level NLP course Ethics Curriculum Developer &amp;amp; Instructor 2023, 2024 (x2) CS 107: Computer Organization and Systems Intro-level computer systems Ethics Curriculum Developer &amp;amp; Instructor 2024 (x2) CS 106B: Programming Abstractions Second course in the Stanford CS sequence, focus on object-oriented programming, data structures, and run-time.</description>
+      <description>Teaching Stanford Most of my teaching at Stanford was done in the context of the Embedded Ethics program. I led teams of CS faculty and teaching assistants to create and teach ethics curriculum in CS courses. Some of our materials are open source on the Embedded Ethics website. Please reach out to me if you are interested in seeing additional material for the courses I led below.
+Ethics Curriculum 2023, 2024 (x2), 2025 CS 221: Artificial Intelligence: Principles and Techniques Large intro-level AI course.</description>
     </item>
     
   </channel>
