@@ -7,9 +7,13 @@ menu:
 ---
 
 ## About Me
-I am a postdoctoral researcher at the Max Planck Institute for Security and Privacy, working with [Yixin Zou][yixin]. 
-
 In Fall 2026, I will start as an assistant professor at Georgia Tech in the School of Cybersecurity and Privacy. 
+
+**I am recruiting PhD students during the 2025-2026 application cycle to start in Fall 2026**. If you are interested in working with me, please apply to Georgia Tech's PhD programs in the School of Computer Science or the School of Cybersecurity and Privacy and mention my name in your application. 
+
+
+I am currently a postdoctoral researcher at the Max Planck Institute for Security and Privacy, working with [Yixin Zou][yixin]. 
+
 
 I use empirical approaches from computer security and human-computer interaction to understand and mitigate the digital safety risks of sociotechnical systems, including hate, harassment, physical abuse, and financal harm. I am interested in how to protect users' digital safety when harm can be experienced across multiple platforms and physical spaces. Some research directions I am currently interested in (though definitely not an exhaustive list): 
 
