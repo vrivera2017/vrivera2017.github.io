@@ -14,6 +14,10 @@ menu:
 ### Peer-Reviewed Journal and Conference Publications ###
 
 <!--### Journal Publications-->
+<span class = "paper-titles"> "I Wonder if These Warnings Are Accurate": An Exploration of Security and Privacy Advice in Nine Majority World Countries </span>\
+Collins W. Munyendo, **Veronica A. Rivera**, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, Marcos Silva, Yue Deng, Mercy Omeiza, Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Abhishek Bichawat, Maryam Mustafa, Francisco Marmolejo-Cossio, Elissa M. Redmiles, Yixin Zou. \
+*IEEE S\&P 2026*
+
 <span class = "paper-titles"> Perfect is the Enemy of Good": The CISO's Role in Enterprise Security as a Business Enabler </span>\
 Kimberly Ruth, **Veronica A. Rivera**, Gautam Akiwate, Aurore Fass, Patrick Gage Kelley, Kurt Thomas, Zakir Durumeric. \
 *CHI 2025*\
@@ -34,13 +38,13 @@ Jessica Huang, Ning F. Ma, **Veronica A. Rivera**, Tabreek Somani, Joanna McGren
 *SIGCSE 2024* \
 \[[PDF][sigcse24]\]\[[ACM DL][acm-sigcse24]\]
 
-<span class = "paper-titles"> Brush it Off: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms </span> \
+<span class = "paper-titles"> "Brush it Off": How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms </span> \
 Ning F. Ma\*, **Veronica A. Rivera\***, Zheng Yao, Dongwook Yoon.\
 *CHI 2022* \
 \[[PDF][CHI22]\]\[[ACM DL][acm-chi22]\][[video][video-chi22]\]
 <!--(24.7% acceptance rate)-->
 
-<span class = "paper-titles"> I Want to, but First I Need to: Understanding Crowdworkers' Career Goals, Challenges, and Tensions </span> \
+<span class = "paper-titles"> "I Want to, but First I Need to": Understanding Crowdworkers' Career Goals, Challenges, and Tensions </span> \
 **Veronica A. Rivera**, David T. Lee.\
 *CSCW 2021*.  
 \[[PDF][cscw21]\] \[[ACM DL][acm-cscw21]\][[video][video-cscw21]\]
