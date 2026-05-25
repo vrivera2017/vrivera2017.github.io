@@ -8,7 +8,6 @@ menu:
 
 
 # Publications
-\* denotes co first author.
 <!--I publish primarily in computer science journals and conference proceedings, where authors are listed in order of contribution. Some of my early work is published in math journals, where authors are listed alphabetically. -->
 
 <div class="publications-list">
@@ -48,6 +47,7 @@ Jessica Huang, Ning F. Ma, **Veronica A. Rivera**, Tabreek Somani, Joanna McGren
 #### 2022 ####
 <span class = "paper-titles"> "Brush it Off": How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms </span> \
 Ning F. Ma\*, **Veronica A. Rivera\***, Zheng Yao, Dongwook Yoon.\
+\* equal contributions.\
 *ACM CHI 2022* \
 \[[PDF][CHI22]\]\[[Link][acm-chi22]\][[video][video-chi22]\]
 <!--(24.7% acceptance rate)-->
