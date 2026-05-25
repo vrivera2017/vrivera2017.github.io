@@ -15,7 +15,8 @@ $text-color: #494e52;
 //$link-color: #077cd2;
 //old color $link-color: #2E9CCA; 
 //old color 2 $link-color: #1a73e8;
-$link-color: #59c9a5;
+$link-color: #AA3405; 
+// Mint green: link-color: #59c9a5;
 //$link-color: #42c686; 
 //$header-color: rgb(56, 23, 241);
 //$header-color: #743CDE; 
@@ -99,6 +100,10 @@ h1.title {
 }
 
 .paper-titles {
-  color: #0b668a; 
-  font-weight: bold; 
+  color: #0b668a;
+  font-weight: bold;
+}
+
+.publications-list h4 {
+  margin-bottom: 0.15em;
 }
