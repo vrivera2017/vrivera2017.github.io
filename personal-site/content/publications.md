@@ -15,7 +15,8 @@ menu:
 #### 2026 ####
 <span class = "paper-titles"> Goals, Risks, and Safety Practices in Online Labor Abuse Disclosures </span>\
 **Veronica A. Rivera**, Tracy Li, Alex Ozdemir, Catherine Han, Zakir Durumeric, Elissa M. Redmiles. \
-*USENIX SOUPS 2026*
+*USENIX SOUPS 2026*\
+\[[PDF][soups26]\]
 
 <span class = "paper-titles"> "I Wonder if These Warnings Are Accurate": An Exploration of Security and Privacy Advice in Nine Majority World Countries </span>\
 Collins W. Munyendo, **Veronica A. Rivera**, Jackie Hu, Emmanuel Tweneboah, Amna Shahnawaz, Karen Sowon, Dilara Keküllüoğlu, Marcos Silva, Yue Deng, Mercy Omeiza, Gayatri Priyadarsini Kancherla, Maria Rosario Niniz Silva, Abhishek Bichawat, Maryam Mustafa, Francisco Marmolejo-Cossio, Elissa M. Redmiles, Yixin Zou. \
@@ -93,6 +94,7 @@ Sam, Nelson, **Veronica Rivera**.\
 
 
 <!--### Workshop and Consortia Papers -->
+[soups26]: /docs/SOUPS26_DWN.pdf
 [sp26]: /docs/2026_Oakland_Security_Advice.pdf
 [ieee-sp26]: https://www.computer.org/csdl/proceedings-article/sp/2026/606500a076/2bojv9k3yOk
 [chi25]: /docs/CHI25_Ruth.pdf
