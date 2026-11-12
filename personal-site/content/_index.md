@@ -7,11 +7,18 @@ menu:
 ---
 
 ## About Me
-I am an incoming assistant professor at Georgia Tech in the [School of Cybersecurity and Privacy][scp]. 
+I am an assistant professor at Georgia Tech in the [School of Cybersecurity and Privacy][scp]. 
 
-<!-- **I am recruiting PhD students during the 2025-2026 application cycle to start in Fall 2026**. If you are interested in working with me, please apply to Georgia Tech's PhD programs in the School of Computer Science or the School of Cybersecurity and Privacy and mention my name in your application.  -->
+<div class="callout">
 
-My research interests are in human-computer interaction, computer security, privacy, and AI. I use empirical techniques (qualitative, quantitative, and measurement) to characterize the digital safety risks of sociotechnical systems and work with affected communities to make these systems safer for everyone. My work seeks to enable safer tech-faciliated interpersonal relationships across different communities and contexts, such as labor, education, and romantic/intimate partnerships, and to measure and reduce abuse of emerging technologies . I publish in top HCI and S&P venues including ACM CHI, ACM CSCW, SOUPS, and IEEE S&P.  
+**I am recruiting PhD students to start in Fall 2027**. If you are interested in working with me, please apply to Georgia Tech's PhD programs in the School of Computer Science or the School of Cybersecurity and Privacy and mention my name in your application. 
+
+</div>
+
+I work at the intersection of human-computer interaction, computer security, privacy, and AI. I identify security, privacy, and digital safety risks enabled by AI and emerging technologies, and how to make these technologies safer for everyone. 
+<!--I publish in top HCI and S&P venues including ACM CHI, ACM CSCW, SOUPS, and IEEE S&P.-->
+
+<!-- the digital safety risks of sociotechnical systems and work with affected communities to make these systems safer for everyone. My work seeks to enable safer tech-faciliated interpersonal relationships across different communities and contexts, such as labor, education, and romantic/intimate partnerships, and to measure and reduce abuse of emerging technologies . I publish in top HCI and S&P venues including ACM CHI, ACM CSCW, SOUPS, and IEEE S&P.   -->
 
 <!-- * **Digital abuse reporting:** Understanding what it means to safely use technology to report on and offline abuse; Developing abuse reporting systems that ensure different definitions of safety (e.g., privacy). 
 * **Safer uses of AI:** Identifying the technical and social limitations of AI for creating a safer internet ecosystem; Developing AI tools for high risk offline contexts, such as labor and health. 
@@ -21,7 +28,9 @@ My research interests are in human-computer interaction, computer security, priv
 
 <!--My research sits at the intersection of Human-Computer Interaction and Computer Security and Privacy. I conduct mixed-methods empirical research and critically analyze digital systems to understand and mitigate technology-facilitated harms, especially those that span multiple platforms or reach into the physical world. I leverage the results of my work to develop generalizable frameworks for technical and policy protections. Through this approach, I have systematized on/offline harms across various user groups and platforms, identified people's protective strategies, and designed interventions to enhance digital safety. Much of my work has focused on better supporting people from marginalized and/or vulnerable communities, including women and platform-based gig workers. --> 
 
-Previously, I was a postdoc at the Max Planck Institute for Security and Privacy (2025-2026) where I worked with [Yixin Zou][yixin] and a postdoc in the computer science department at Stanford University (2023-2025), where I worked with [Zakir Durumeric][Zakir]. At Stanford I also worked with the Embedded Ethics Program, joint across the [Institute for Human-Centered AI (HAI)][hai] and the [McCoy Family Center for Ethics in Society][ethics-center], where I taught ethics in computer science classes. I completed my PhD in Computational Media at the University of California, Santa Cruz working with [David Lee][david]. During my PhD I spent a year as a visiting student at the Max Planck Institute for Software Systems where I worked with [Elissa Redmiles][Elissa]. I earned a B.S degree in Joint Computer Science and Mathematics from Harvey Mudd College where I was supported by a 4 year President's Scholarship. My time at Harvey Mudd contributed greatly to my passion for scholarship and teaching.
+Previously, I was a postdoc at the Max Planck Institute for Security and Privacy (2025-2026) with [Yixin Zou][yixin] and a postdoc in the computer science department at Stanford University (2023-2025) with [Zakir Durumeric][Zakir]. At Stanford, I also taught ethics in computer science via the Embedded Ethics program. I completed my PhD in Computational Media at the University of California, Santa Cruz, working with [David Lee][david] and was a visiting PhD student at the Max Planck Institute for Software Systems with [Elissa Redmiles][Elissa]. I earned a B.S degree in Joint Computer Science and Mathematics from Harvey Mudd College.
+
+<!-- LONGER BIO Previously, I was a postdoc at the Max Planck Institute for Security and Privacy (2025-2026) where I worked with [Yixin Zou][yixin] and a postdoc in the computer science department at Stanford University (2023-2025), where I worked with [Zakir Durumeric][Zakir]. At Stanford I also worked with the Embedded Ethics Program, joint across the [Institute for Human-Centered AI (HAI)][hai] and the [McCoy Family Center for Ethics in Society][ethics-center], where I taught ethics in computer science classes. I completed my PhD in Computational Media at the University of California, Santa Cruz working with [David Lee][david]. During my PhD I spent a year as a visiting student at the Max Planck Institute for Software Systems where I worked with [Elissa Redmiles][Elissa]. I earned a B.S degree in Joint Computer Science and Mathematics from Harvey Mudd College where I was supported by a 4 year President's Scholarship. My time at Harvey Mudd contributed greatly to my passion for scholarship and teaching.-->
 
 <!--[View my CV][CV]-->
 

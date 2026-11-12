@@ -11,31 +11,25 @@
 @import 'project-icons';
 @import 'service'; 
 
-$text-color: #494e52;
-//$link-color: #077cd2;
-//old color $link-color: #2E9CCA; 
-//old color 2 $link-color: #1a73e8;
-$link-color: #AA3405; 
-// Mint green: link-color: #59c9a5;
-//$link-color: #42c686; 
-//$header-color: rgb(56, 23, 241);
-//$header-color: #743CDE; 
-//$header-color: #d17480; 
-$header-color: #057baa; 
-$detail-color: #868f97;
-//$nav-color: #00ba0f;
-$nav-color: #5B27BE; 
+// Blue palette
+$text-color: #2b3440;
+$link-color: #057baa;
+$header-color: #0f2747;
+$detail-color: #64748b;
+$nav-color: #057baa;
 $serif: Lora, Georgia, "Times New Roman", Times, serif;
-$sans: Lato, Arial, sans-serif;
+$sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 $monospace: "Roboto Mono", "DejaVu Sans Mono", monospace;
 html {
   overflow-y: scroll;
 }
 
 body {
-  font-family: $sans;  
+  font-family: $sans;
+  font-weight: 350;
+  -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-size: 15px;
+  font-size: 15.5px;
   color: $text-color;
 }
 
@@ -51,7 +45,8 @@ a {
 h2,
 h3 {
   font-family: $sans;
-  font-weight: 200;
+  color: $header-color;
+  font-weight: 400;
   padding-top: 10px;
 }
 
@@ -82,7 +77,8 @@ h1.title {
 }
 
 .name {
-  font-size: 2em;
+  font-size: 2.1em;
+  color: $header-color;
   //justify-content: flex-start;
   //border-bottom: 1pt solid black;
 }
@@ -99,11 +95,74 @@ h1.title {
   justify-content: center;
 }
 
+// Recruiting banner on the About page
+.callout {
+  display: flow-root; // keeps the box beside the floated photo, not under it
+  background: #e6f2f7;
+  border-left: 4px solid $link-color;
+  border-radius: 0 6px 6px 0;
+  padding: 0.75em 1em;
+  margin: 1em 0;
+
+  p {
+    margin: 0;
+  }
+
+  strong {
+    color: $header-color;
+  }
+}
+
 .paper-titles {
-  color: #0b668a;
+  color: $header-color;
   font-weight: bold;
 }
 
 .publications-list h4 {
   margin-bottom: 0.15em;
+}
+
+// Phones: stack the sidebar above the content instead of a fixed 950px width
+@media (max-width: 820px) {
+  .page-container {
+    width: auto;
+    margin: 20px auto;
+    padding: 0 16px 50px;
+    flex-direction: column;
+  }
+
+  .sidebar {
+    position: static;
+    flex: none;
+    align-self: auto;
+    padding: 0;
+    min-width: 0;
+    max-width: none;
+    width: auto;
+    margin-right: 0;
+    padding-left: 0;
+    margin-bottom: 1em;
+    border-right: 0;
+
+    .title {
+      margin-bottom: 1em;
+    }
+
+    .nav-items {
+      width: auto;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 0 1em;
+    }
+
+    .contact-info {
+      margin-top: 1em;
+      padding-top: 1em;
+    }
+  }
+
+  .content figure {
+    float: none !important;
+    text-align: center;
+  }
 }

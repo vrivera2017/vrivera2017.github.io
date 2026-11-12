@@ -9,6 +9,12 @@ menu:
 <!--{{< teaching role = "TA" year = "2018" class = "Programming" site = "www.google.com" >}}
 python class
 {{< /teaching >}}-->
+
+## Georgia Tech ##
+{{< teaching role = "Instructor" year = "Fall 2026" class = "CS 8803: Sociotechnical Security" site = "https://sociotechnical-security.github.io/">}}
+Graduate seminar on usable security and privacy and digital safety topics.
+{{< /teaching >}}
+
 ## Stanford ##
 Most of my teaching at Stanford was done in the context of the Embedded Ethics program. I led teams of CS faculty and teaching assistants to create and teach ethics curriculum in CS courses. Some of our materials are open source on the [Embedded Ethics website][ethics-site]. Please reach out to me if you are interested in seeing additional material for the courses I led below. 
 

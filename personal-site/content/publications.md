@@ -3,7 +3,7 @@ title: "Publications"
 date: 2018-12-06 21:30:40 -0800
 menu:
   main:
-    weight: 2
+    weight: 3
 ---
 
 

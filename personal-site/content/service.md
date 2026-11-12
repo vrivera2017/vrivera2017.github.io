@@ -7,7 +7,8 @@ menu:
 
 # Service 
 ## Program Committee ##
-* USENIX Security: 2026, 2025
+* USENIX Security: 2027, 2026, 2025
+    * Distinguished reviewer award: 2026, 2025
 * CHI (Associate Chair): 2026
 * CSCW (Associate Chair): 2024
 
